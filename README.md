@@ -6,7 +6,7 @@
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](https://github.com/fs302/LeetCode/blob/master/002-addTwoNum/addTwoNum.cpp) | 模拟 | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](https://github.com/fs302/LeetCode/blob/master/003-longestSubStr/solution_2.cpp) | 模拟 | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](https://github.com/fs302/LeetCode/blob/master/004-MedianArray/median_array.py) | 归并查找 | Hard |
-| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py) | 归并查找 | Hard |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py) | 贪心 | Medium |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py) | 模拟 | Easy       |
 
 # ARTS
