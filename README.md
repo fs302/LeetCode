@@ -7,6 +7,7 @@
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](https://github.com/fs302/LeetCode/blob/master/003-longestSubStr/solution_2.cpp) | 模拟 | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Python](https://github.com/fs302/LeetCode/blob/master/004-MedianArray/median_array.py) | 归并查找 | Hard |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py) | 贪心 | Medium |
+| 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py) | 模拟 | Medium |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py) | 模拟 | Easy       |
 
 # ARTS
@@ -32,9 +33,16 @@
 * Tip:
 * Share:
 
-### 2019/04/01-2019/04/06
+### 2019/04/01-2019/04/07
 
 * Algorithm: LeetCode-005 [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py)
 * Review: [User Identity Linkage across Online Social Networks](https://dl.acm.org/citation.cfm?doid=3068777.3068781) 文章从特征挖掘和模型选型两个角度概述了如何在两个社交网络上做用户同人映射的学术研究，时间截至2016年。其中特征挖掘主要包括 Profile、Content、Network 三方面，模型包括有监督的分类模型（如 SVM、RF、朴素贝叶斯）、半监督的标签传播和 Embedding，以及无监督的迭代模型。需要重点关注的特征包括：文本特征、位置特征、网络特征甚至是图片特征，其中特征的相似度计算也是研究的热点。常见的评价指标包括：准确率、召回率、精确率、AUC 等。 其中[18][62]是信息推荐，对 OneID/OneRelation 均适用。 [38][46] 可能对系统性架构有借鉴意义。 [47][53] 是利用位置信息做同人识别的例子。 [38][40] 是各种特征的集大成者。
 * Tip: 学会在长周期的任务里用好“缓存”思想，能够帮助减少计算量、增加效率。
 * Share: [李开复图灵奖推荐信曝光：AI时代里 Hinton是最值得嘉奖的人](https://news.cnblogs.com/n/623079/)
+
+### 2019/04/08-2019/04/14
+
+* Algorithm: LeetCode-006 [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py)
+* Review: 
+* Tip: 
+* Share: 
