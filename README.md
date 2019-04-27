@@ -57,7 +57,7 @@
 * Share: [社交网络中的深度知识挖掘](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
 
 
-### 2019/04/15-2019/04/21
+### 2019/04/22-2019/04/28
 
 * Algorithm: LeetCode-009 [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) 
 * Review: 
