@@ -22,7 +22,6 @@ class Solution(object):
                 cur_palindrome += s[i]
             if len(cur_palindrome) >= len(best):
                 best = cur_palindrome
-            # print '\ncur_p:',cur_palindrome
         return best
 
 if __name__=='__main__':

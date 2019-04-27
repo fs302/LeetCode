@@ -9,6 +9,7 @@
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py) | 贪心 | Medium |
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py) | 模拟 | Medium |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py) | 模拟 | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py) | 模拟 | Easy       |
 
 # ARTS
 
@@ -46,3 +47,11 @@
 * Review: 
 * Tip: 
 * Share: 
+
+### 2019/04/15-2019/04/21
+
+* Algorithm: LeetCode-008 [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py)
+* Review: [What's in a name]()
+* Tip: 从科技发展史，更容易抽象出技术未来的方向。比如市场营销领域的 Targeting，最初是 household（电话、报纸），然后是 individual（手机、电脑），现在可以做得更多维度 households+individual+device（一个人可能有多台设备），从发展的角度去看会更清楚做什么更有价值。
+* Share: [社交网络中的深度知识挖掘 ](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
+
