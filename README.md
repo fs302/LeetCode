@@ -10,6 +10,7 @@
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py) | 模拟 | Medium |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py) | 模拟 | Easy       |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py) | 模拟 | Easy       |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) | 数字 | Easy       |
 
 # ARTS
 
@@ -45,13 +46,21 @@
 
 * Algorithm: LeetCode-006 [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py)
 * Review: 
-* Tip: 
+* Tip: 软件工程的目标是控制复杂度，而不是增加复杂度。
 * Share: 
 
 ### 2019/04/15-2019/04/21
 
 * Algorithm: LeetCode-008 [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py)
-* Review: [What's in a name]()
+* Review: 
 * Tip: 从科技发展史，更容易抽象出技术未来的方向。比如市场营销领域的 Targeting，最初是 household（电话、报纸），然后是 individual（手机、电脑），现在可以做得更多维度 households+individual+device（一个人可能有多台设备），从发展的角度去看会更清楚做什么更有价值。
-* Share: [社交网络中的深度知识挖掘 ](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
+* Share: [社交网络中的深度知识挖掘](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
+
+
+### 2019/04/15-2019/04/21
+
+* Algorithm: LeetCode-009 [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) 
+* Review: 
+* Tip: 维护一个回归测试集，不仅在工程技术上有用，在数据科学应用中也是有效的。
+* Share: [复杂网络升阶指南：如何构建最优网络模型](http://www.sohu.com/a/308604871_741733) 作者提出了几种升阶方法，包括分层、组合、时序、因果。
 
