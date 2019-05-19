@@ -13,6 +13,7 @@
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) | 数字 | Easy       |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) | 搜索 | Hard       |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) | 贪心 | Hard       |
+| 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py) | 模拟 | Easy       |
 
 # ARTS
 
@@ -71,13 +72,19 @@
 * Algorithm: LeetCode-010 [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) 记忆化搜索，用 DP 解应该也行
 * Review: [What's in a Name? An Unsupervised Approach to Link Users across Communities](https://dl.acm.org/citation.cfm?id=2433457)
     + 这篇文章利用 n-gram 的 NLP 方法，通过分析用户名（username）独特性来自动抽取训练集，继而从用户头像、地理位置、签名、线上行为共现、语言偏好等角度抽取特征，以相同用户名为召回，对 user-user 关系对训练一个二分类模型。通过人为调研的方式提取了测试集合，相比直接把用户名相同视为同人（精确率 56.4%），模型精确率提升到 92.1%。综上，作者提出了 2 个 insight：一是自动抽取训练集的方式是有效的，二是训练 n-gram 模型得到的判别特征也是有效的。
-    + 从这篇文章还能得到一些启发：大量的数据分析驱动出基本的假设，有利于把问题抽象化，把不可解变为可解。从 About.me 和 Yahoo! 等公开的数据集上获取的标注集，类比于集团的数据包括 Havana/88VIP 等。通过众包的方式得到的标注集，依然可以说明问题，并且值得 OneID 回归测试借鉴。
 * Tip: 
 * Share: 
 
 ### 2019/05/06-2019/05/12
 
 * Algorithm: LeetCode-011 [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) 要理清影响决策的关键因素
+* Review: 
+* Tip: 
+* Share: 
+
+### 2019/05/13-2019/05/19
+
+* Algorithm: LeetCode-012 [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py)
 * Review: 
 * Tip: 
 * Share: 
