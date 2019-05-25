@@ -14,6 +14,7 @@
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) | 搜索 | Hard       |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) | 贪心 | Hard       |
 | 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py) | 模拟 | Easy       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py) | 模拟 | Easy       |
 
 # ARTS
 
@@ -87,5 +88,12 @@
 * Algorithm: LeetCode-012 [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py)
 * Review: 
 * Tip: 
+* Share: 
+
+### 2019/05/20-2019/05/26
+
+* Algorithm: LeetCode-013 [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py)
+* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 这篇文章尝试对 GNN 的底层机制做了解构，并且和 Weisfeiler-Lehman 方法进行类比，从而提出了一个更简单高效的 GNN 框架：Graph Isomorphism Network(GIN)，在图分类的任务上取得了很不错的效果。
+* Tip: 比发现问题更牛逼的是解决问题，比解决问题更牛逼的是优化问题的根源。站得越高，越不容易手无足措。
 * Share: 
 
