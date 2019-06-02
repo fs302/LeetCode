@@ -15,6 +15,7 @@
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) | 贪心 | Hard       |
 | 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py) | 模拟 | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py) | 模拟 | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py) | 模拟 | Easy       |
 
 # ARTS
 
@@ -97,3 +98,10 @@
 * Tip: 比发现问题更牛逼的是解决问题，比解决问题更牛逼的是优化问题的根源。站得越高，越不容易手无足措。
 * Share: 
 
+
+### 2019/05/27-2019/06/02
+
+* Algorithm: LeetCode-014 [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py)
+* Review: 
+* Tip: 
+* Share: 
