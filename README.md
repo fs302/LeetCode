@@ -16,6 +16,7 @@
 | 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py) | 模拟 | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py) | 模拟 | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py) | 模拟 | Easy       |
+| 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
@@ -105,3 +106,11 @@
 * Review: 
 * Tip: 
 * Share: 
+
+### 2019/06/03-2019/06/09
+
+* Algorithm: LeetCode-950 [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py)
+* Review: 
+* Tip: 
+* Share: 
+
