@@ -16,6 +16,8 @@
 | 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py) | 模拟 | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py) | 模拟 | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py) | 模拟 | Easy       |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py) | 模拟 | Hard   |
+| 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py) | 模拟 | Middle   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -114,3 +116,16 @@
 * Tip: 
 * Share: 
 
+### 2019/06/10-2019/06/16
+
+* Algorithm: LeetCode-015 [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py)
+* Review: 
+* Tip: 
+* Share: 
+
+### 2019/06/17-2019/06/23
+
+* Algorithm: LeetCode-016 [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py)
+* Review: 
+* Tip: 
+* Share: 
