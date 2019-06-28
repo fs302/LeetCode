@@ -18,6 +18,7 @@
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py) | 模拟 | Easy       |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py) | 模拟 | Hard   |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py) | 模拟 | Middle   |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py) | 模拟 | Easy   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -126,6 +127,14 @@
 ### 2019/06/17-2019/06/23
 
 * Algorithm: LeetCode-016 [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py)
+* Review: 
+* Tip: 
+* Share: 
+
+
+### 2019/06/24-2019/06/30
+
+* Algorithm: LeetCode-017 [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py)
 * Review: 
 * Tip: 
 * Share: 
