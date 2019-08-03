@@ -19,6 +19,7 @@
 | 15   | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py) | 模拟 | Hard   |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py) | 模拟 | Middle   |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py) | 模拟 | Easy   |
+| 18   | [4Sum](https://leetcode.com/problems/4sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py) | 搜索 | Middle   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -106,35 +107,27 @@
 ### 2019/05/27-2019/06/02
 
 * Algorithm: LeetCode-014 [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py)
-* Review: 
-* Tip: 
-* Share: 
 
 ### 2019/06/03-2019/06/09
 
 * Algorithm: LeetCode-950 [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py)
-* Review: 
-* Tip: 
-* Share: 
 
 ### 2019/06/10-2019/06/16
 
 * Algorithm: LeetCode-015 [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py)
-* Review: 
-* Tip: 
-* Share: 
 
 ### 2019/06/17-2019/06/23
 
 * Algorithm: LeetCode-016 [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py)
-* Review: 
-* Tip: 
-* Share: 
-
 
 ### 2019/06/24-2019/06/30
 
 * Algorithm: LeetCode-017 [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py)
-* Review: 
-* Tip: 
-* Share: 
+
+
+### 2019/07/28-2019/08/03
+
+* Algorithm: LeetCode-018 [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py)
+* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 精读了一遍，其重点在证明图信息聚合的时候，用 Sum 比 Mean 和 Max 好，后接 MLP 比 1-Layer 好，其中 Max-1-Layer 就是 GraphSage，Mean-1-Layer 就是 GCN。
+
+
