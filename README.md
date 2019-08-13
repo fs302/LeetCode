@@ -20,6 +20,7 @@
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py) | 模拟 | Middle   |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py) | 模拟 | Easy   |
 | 18   | [4Sum](https://leetcode.com/problems/4sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py) | 搜索 | Middle   |
+| 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/019-RemoveNthEnd/remove_nth_node.py) | 模拟 | Middle   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -79,30 +80,21 @@
 * Algorithm: LeetCode-010 [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) 记忆化搜索，用 DP 解应该也行
 * Review: [What's in a Name? An Unsupervised Approach to Link Users across Communities](https://dl.acm.org/citation.cfm?id=2433457)
     + 这篇文章利用 n-gram 的 NLP 方法，通过分析用户名（username）独特性来自动抽取训练集，继而从用户头像、地理位置、签名、线上行为共现、语言偏好等角度抽取特征，以相同用户名为召回，对 user-user 关系对训练一个二分类模型。通过人为调研的方式提取了测试集合，相比直接把用户名相同视为同人（精确率 56.4%），模型精确率提升到 92.1%。综上，作者提出了 2 个 insight：一是自动抽取训练集的方式是有效的，二是训练 n-gram 模型得到的判别特征也是有效的。
-* Tip: 
-* Share: 
+
 
 ### 2019/05/06-2019/05/12
 
 * Algorithm: LeetCode-011 [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) 要理清影响决策的关键因素
-* Review: 
-* Tip: 
-* Share: 
 
 ### 2019/05/13-2019/05/19
 
 * Algorithm: LeetCode-012 [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py)
-* Review: 
-* Tip: 
-* Share: 
 
 ### 2019/05/20-2019/05/26
 
 * Algorithm: LeetCode-013 [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py)
 * Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 这篇文章尝试对 GNN 的底层机制做了解构，并且和 Weisfeiler-Lehman 方法进行类比，从而提出了一个更简单高效的 GNN 框架：Graph Isomorphism Network(GIN)，在图分类的任务上取得了很不错的效果。
 * Tip: 比发现问题更牛逼的是解决问题，比解决问题更牛逼的是优化问题的根源。站得越高，越不容易手无足措。
-* Share: 
-
 
 ### 2019/05/27-2019/06/02
 
@@ -124,10 +116,16 @@
 
 * Algorithm: LeetCode-017 [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py)
 
-
 ### 2019/07/28-2019/08/03
 
 * Algorithm: LeetCode-018 [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py)
 * Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 精读了一遍，其重点在证明图信息聚合的时候，用 Sum 比 Mean 和 Max 好，后接 MLP 比 1-Layer 好，其中 Max-1-Layer 就是 GraphSage，Mean-1-Layer 就是 GCN。
+
+
+### 2019/08/04-2019/08/11
+
+* Algorithm: LeetCode-019 [Python](https://github.com/fs302/LeetCode/blob/master/019-RemoveNthEnd/remove_nth_node.py)
+* Tip: 业务需要，复习了网络密度和网络集聚系数，发现网络集聚系数在三角闭包不成环的时候区分力不够强。定义一个社团密度，想要具备更好的排序性，可以结合两者。
+
 
 
