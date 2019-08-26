@@ -23,6 +23,7 @@
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/019-RemoveNthEnd/remove_nth_node.py) | 模拟 | Middle   |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/020-ValidParentheses/valid_parentheses.py) | 栈 | Easy   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py) | 链表 | Easy   |
+| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py) | 搜索 | Easy   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -136,3 +137,7 @@
 ### 2019/08/19-2019/08/25
 
 * Algorithm: LeetCode-021 [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py)
+
+### 2019/08/26-2019/09/01
+
+* Algorithm: LeetCode-022 [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py)
