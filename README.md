@@ -141,3 +141,4 @@
 ### 2019/08/26-2019/09/01
 
 * Algorithm: LeetCode-022 [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py)
+* Tip: 可解释性 AI 正处于技术上升期，包括全局解释性（overall feature importance）和局部解释性（by-instance feature importance）。常用的思路是通过白盒模型（如线性模型）来拟合黑盒模型（如深度学习模型），从而对黑盒模型进行解释。与之很相似的一个机器学习领域叫“知识蒸馏”（Knowledge Distillation），在限制模型复杂度的条件下，用简单模型替代复杂模型，达到工业应用的目的。在解释训练的过程中，会通过特征缺失、样本扰动的方式去构造对比数据。目前 GA2M、LIME、SHAP 等解释性方法比较普遍在用。
