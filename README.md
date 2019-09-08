@@ -24,6 +24,7 @@
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/020-ValidParentheses/valid_parentheses.py) | 栈 | Easy   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py) | 链表 | Easy   |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py) | 搜索 | Easy   |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py) | 排序 | Middle   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -142,3 +143,8 @@
 
 * Algorithm: LeetCode-022 [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py)
 * Tip: 可解释性 AI 正处于技术上升期，包括全局解释性（overall feature importance）和局部解释性（by-instance feature importance）。常用的思路是通过白盒模型（如线性模型）来拟合黑盒模型（如深度学习模型），从而对黑盒模型进行解释。与之很相似的一个机器学习领域叫“知识蒸馏”（Knowledge Distillation），在限制模型复杂度的条件下，用简单模型替代复杂模型，达到工业应用的目的。在解释训练的过程中，会通过特征缺失、样本扰动的方式去构造对比数据。目前 GA2M、LIME、SHAP 等解释性方法比较普遍在用。
+
+### 2019/09/02-2019/09/08
+
+* Algorithm: LeetCode-023 [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py)
+* Tip: SIR 模型可以用来衡量网络节点传播重要性
