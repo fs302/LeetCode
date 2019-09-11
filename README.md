@@ -24,7 +24,8 @@
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/020-ValidParentheses/valid_parentheses.py) | 栈 | Easy   |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py) | 链表 | Easy   |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py) | 搜索 | Easy   |
-| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py) | 排序 | Middle   |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py) | 排序/队列 | Middle   |
+| 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) | 链表 | Middle   |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -148,3 +149,8 @@
 
 * Algorithm: LeetCode-023 [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py)
 * Tip: SIR 模型可以用来衡量网络节点传播重要性
+
+### 2019/09/09-2019/09/15
+
+* Algorithm: LeetCode-024 [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) 
+* Tips: 要保证效率，最好一开始写代码的时候就用对数据结构。
