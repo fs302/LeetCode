@@ -26,6 +26,8 @@
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py) | 搜索 | Easy   |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py) | 排序/队列 | Middle   |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) | 链表 | Middle   |
+| 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](https://github.com/fs302/LeetCode/blob/master/025-ReverseNodesInKGroup/reverse_k.py) | 链表 | Hard   |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py) | 模拟 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -154,3 +156,13 @@
 
 * Algorithm: LeetCode-024 [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) 
 * Tips: 要保证效率，最好一开始写代码的时候就用对数据结构。
+
+### 2019/09/16-2019/09/22
+
+* Algorithm: LeetCode-025 [Python](https://github.com/fs302/LeetCode/blob/master/025-ReverseNodesInKGroup/reverse_k.py) 
+
+
+### 2019/09/16-2019/09/22
+
+* Algorithm: LeetCode-026 [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py)
+
