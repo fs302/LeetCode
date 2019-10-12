@@ -28,6 +28,8 @@
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) | 链表 | Middle   |
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](https://github.com/fs302/LeetCode/blob/master/025-ReverseNodesInKGroup/reverse_k.py) | 链表 | Hard   |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py) | 模拟 | Middle |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) | 模拟 | Easy |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py)  | 模拟 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -165,4 +167,13 @@
 ### 2019/09/23-2019/09/29
 
 * Algorithm: LeetCode-026 [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py)
+
+### 2019/09/30-2019/10/06
+
+* Pass
+
+### 2019/10/07-2019/10/13
+
+* Algorithm: LeetCode-027 [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) 
+* Algorithm: LeetCode-028 [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py) 
 
