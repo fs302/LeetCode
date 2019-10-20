@@ -30,18 +30,138 @@
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py) | 模拟 | Middle |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) | 模拟 | Easy |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py)  | 模拟 | Middle |
+| 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/fs302/LeetCode/blob/master/029-DivideTwoIntegers/divide_simulator.py)  | 模拟 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
-### 2019/03/18-2019/03/24
+### 2019/10/14-2019/10/20
 
-* Algorithm: Leetcode-007 [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py)
-* Review：
-* Tip：[《Python风格规范》](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/) 第一条：不要在行尾加分号, 也不要用分号将两条命令放在同一行.
-* Share：[《CIKM 最佳论文是怎样炼成的》](https://dl.ccf.org.cn/institude/institudeDetail?id=4238083940370432&_ack=1) 这篇文章讲述了结合视觉和文本做搜索排序优化的新思路，经历了 CVPR、IJCAI 的拒稿后，最终被 CIKM 接收并且拿到最佳论文奖的历程。得到的启发是：一个新思路在被大家认可的过程中，是不断和外接碰撞，完善表达力的过程。其中重要的一环还是作为提出者要足够相信。
+* Algorithm: LeetCode-029 [Python](https://github.com/fs302/LeetCode/blob/master/029-DivideTwoIntegers/divide_simulator.py)
+
+### 2019/10/07-2019/10/13
+
+* Algorithm: LeetCode-027 [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) 
+* Algorithm: LeetCode-028 [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py) 
+
+### 2019/09/30-2019/10/06
+
+* Pass
+
+### 2019/09/23-2019/09/29
+
+* Algorithm: LeetCode-026 [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py)
+
+### 2019/09/16-2019/09/22
+
+* Algorithm: LeetCode-025 [Python](https://github.com/fs302/LeetCode/blob/master/025-ReverseNodesInKGroup/reverse_k.py) 
+
+
+### 2019/09/09-2019/09/15
+
+* Algorithm: LeetCode-024 [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) 
+* Tips: 要保证效率，最好一开始写代码的时候就用对数据结构。
+
+### 2019/09/02-2019/09/08
+
+* Algorithm: LeetCode-023 [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py)
+* Tip: SIR 模型可以用来衡量网络节点传播重要性
+
+### 2019/08/26-2019/09/01
+
+* Algorithm: LeetCode-022 [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py)
+* Tip: 可解释性 AI 正处于技术上升期，包括全局解释性（overall feature importance）和局部解释性（by-instance feature importance）。常用的思路是通过白盒模型（如线性模型）来拟合黑盒模型（如深度学习模型），从而对黑盒模型进行解释。与之很相似的一个机器学习领域叫“知识蒸馏”（Knowledge Distillation），在限制模型复杂度的条件下，用简单模型替代复杂模型，达到工业应用的目的。在解释训练的过程中，会通过特征缺失、样本扰动的方式去构造对比数据。目前 GA2M、LIME、SHAP 等解释性方法比较普遍在用。
+
+### 2019/08/19-2019/08/25
+
+* Algorithm: LeetCode-021 [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py)
+
+### 2019/08/12-2019/08/18
+
+* Algorithm: LeetCode-020 [Python](https://github.com/fs302/LeetCode/blob/master/020-ValidParentheses/valid_parentheses.py)
+
+### 2019/08/04-2019/08/11
+
+* Algorithm: LeetCode-019 [Python](https://github.com/fs302/LeetCode/blob/master/019-RemoveNthEnd/remove_nth_node.py)
+* Tip: 业务需要，复习了网络密度和网络集聚系数，发现网络集聚系数在三角闭包不成环的时候区分力不够强。定义一个社团密度，想要具备更好的排序性，可以结合两者。
+
+### 2019/07/28-2019/08/03
+
+* Algorithm: LeetCode-018 [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py)
+* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 精读了一遍，其重点在证明图信息聚合的时候，用 Sum 比 Mean 和 Max 好，后接 MLP 比 1-Layer 好，其中 Max-1-Layer 就是 GraphSage，Mean-1-Layer 就是 GCN。
+
+
+### 2019/06/24-2019/06/30
+
+* Algorithm: LeetCode-017 [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py)
+
+### 2019/06/17-2019/06/23
+
+* Algorithm: LeetCode-016 [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py)
+
+### 2019/06/10-2019/06/16
+
+* Algorithm: LeetCode-015 [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py)
+
+### 2019/06/03-2019/06/09
+
+* Algorithm: LeetCode-950 [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py)
+
+### 2019/05/27-2019/06/02
+
+* Algorithm: LeetCode-014 [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py)
+
+### 2019/05/20-2019/05/26
+
+* Algorithm: LeetCode-013 [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py)
+* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 这篇文章尝试对 GNN 的底层机制做了解构，并且和 Weisfeiler-Lehman 方法进行类比，从而提出了一个更简单高效的 GNN 框架：Graph Isomorphism Network(GIN)，在图分类的任务上取得了很不错的效果。
+* Tip: 比发现问题更牛逼的是解决问题，比解决问题更牛逼的是优化问题的根源。站得越高，越不容易手无足措。
+
+### 2019/05/13-2019/05/19
+
+* Algorithm: LeetCode-012 [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py)
+
+### 2019/05/06-2019/05/12
+
+* Algorithm: LeetCode-011 [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) 要理清影响决策的关键因素
+
+### 2019/04/29-2019/05/05
+
+* Algorithm: LeetCode-010 [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) 记忆化搜索，用 DP 解应该也行
+* Review: [What's in a Name? An Unsupervised Approach to Link Users across Communities](https://dl.acm.org/citation.cfm?id=2433457)
+    + 这篇文章利用 n-gram 的 NLP 方法，通过分析用户名（username）独特性来自动抽取训练集，继而从用户头像、地理位置、签名、线上行为共现、语言偏好等角度抽取特征，以相同用户名为召回，对 user-user 关系对训练一个二分类模型。通过人为调研的方式提取了测试集合，相比直接把用户名相同视为同人（精确率 56.4%），模型精确率提升到 92.1%。综上，作者提出了 2 个 insight：一是自动抽取训练集的方式是有效的，二是训练 n-gram 模型得到的判别特征也是有效的。
+
+
+### 2019/04/22-2019/04/28
+
+* Algorithm: LeetCode-009 [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) 
+* Review: 
+* Tip: 维护一个回归测试集，不仅在工程技术上有用，在数据科学应用中也是有效的。
+* Share: [复杂网络升阶指南：如何构建最优网络模型](http://www.sohu.com/a/308604871_741733) 作者提出了几种升阶方法，包括分层、组合、时序、因果。
+
+### 2019/04/15-2019/04/21
+
+* Algorithm: LeetCode-008 [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py)
+* Review: 
+* Tip: 从科技发展史，更容易抽象出技术未来的方向。比如市场营销领域的 Targeting，最初是 household（电话、报纸），然后是 individual（手机、电脑），现在可以做得更多维度 households+individual+device（一个人可能有多台设备），从发展的角度去看会更清楚做什么更有价值。
+* Share: [社交网络中的深度知识挖掘](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
+
+
+### 2019/04/08-2019/04/14
+
+* Algorithm: LeetCode-006 [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py)
+* Review: 
+* Tip: 软件工程的目标是控制复杂度，而不是增加复杂度。
+* Share: 
+
+### 2019/04/01-2019/04/07
+
+* Algorithm: LeetCode-005 [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py)
+* Review: [User Identity Linkage across Online Social Networks](https://dl.acm.org/citation.cfm?doid=3068777.3068781) 文章从特征挖掘和模型选型两个角度概述了如何在两个社交网络上做用户同人映射的学术研究，时间截至2016年。其中特征挖掘主要包括 Profile、Content、Network 三方面，模型包括有监督的分类模型（如 SVM、RF、朴素贝叶斯）、半监督的标签传播和 Embedding，以及无监督的迭代模型。需要重点关注的特征包括：文本特征、位置特征、网络特征甚至是图片特征，其中特征的相似度计算也是研究的热点。常见的评价指标包括：准确率、召回率、精确率、AUC 等。 其中[18][62]是信息推荐，对 OneID/OneRelation 均适用。 [38][46] 可能对系统性架构有借鉴意义。 [47][53] 是利用位置信息做同人识别的例子。 [38][40] 是各种特征的集大成者。
+* Tip: 学会在长周期的任务里用好“缓存”思想，能够帮助减少计算量、增加效率。
+* Share: [李开复图灵奖推荐信曝光：AI时代里 Hinton是最值得嘉奖的人](https://news.cnblogs.com/n/623079/)
 
 ### 2019/03/25-2019/03/31
 
@@ -55,125 +175,9 @@
 * Tip:
 * Share:
 
-### 2019/04/01-2019/04/07
+### 2019/03/18-2019/03/24
 
-* Algorithm: LeetCode-005 [Python](https://github.com/fs302/LeetCode/blob/master/005-longestPalindromicSubStr/lpss.py)
-* Review: [User Identity Linkage across Online Social Networks](https://dl.acm.org/citation.cfm?doid=3068777.3068781) 文章从特征挖掘和模型选型两个角度概述了如何在两个社交网络上做用户同人映射的学术研究，时间截至2016年。其中特征挖掘主要包括 Profile、Content、Network 三方面，模型包括有监督的分类模型（如 SVM、RF、朴素贝叶斯）、半监督的标签传播和 Embedding，以及无监督的迭代模型。需要重点关注的特征包括：文本特征、位置特征、网络特征甚至是图片特征，其中特征的相似度计算也是研究的热点。常见的评价指标包括：准确率、召回率、精确率、AUC 等。 其中[18][62]是信息推荐，对 OneID/OneRelation 均适用。 [38][46] 可能对系统性架构有借鉴意义。 [47][53] 是利用位置信息做同人识别的例子。 [38][40] 是各种特征的集大成者。
-* Tip: 学会在长周期的任务里用好“缓存”思想，能够帮助减少计算量、增加效率。
-* Share: [李开复图灵奖推荐信曝光：AI时代里 Hinton是最值得嘉奖的人](https://news.cnblogs.com/n/623079/)
-
-### 2019/04/08-2019/04/14
-
-* Algorithm: LeetCode-006 [Python](https://github.com/fs302/LeetCode/blob/master/006-ZigZag/zigzag.py)
-* Review: 
-* Tip: 软件工程的目标是控制复杂度，而不是增加复杂度。
-* Share: 
-
-### 2019/04/15-2019/04/21
-
-* Algorithm: LeetCode-008 [Python](https://github.com/fs302/LeetCode/blob/master/008-String2Int/string2int.py)
-* Review: 
-* Tip: 从科技发展史，更容易抽象出技术未来的方向。比如市场营销领域的 Targeting，最初是 household（电话、报纸），然后是 individual（手机、电脑），现在可以做得更多维度 households+individual+device（一个人可能有多台设备），从发展的角度去看会更清楚做什么更有价值。
-* Share: [社交网络中的深度知识挖掘](http://www.sohu.com/a/122070840_468622) 这个 PPT 是关于社交网络的应用综述，有几个有意思的东西：一是构建社会的 RoadMap（User-Tie-Network），二是用社交网络数据来做性别预测和关系预测，三是网络中可以挖掘出一些关键角色（比如公司 Boss）或者意见领袖。
-
-
-### 2019/04/22-2019/04/28
-
-* Algorithm: LeetCode-009 [Python](https://github.com/fs302/LeetCode/blob/master/009-PalindromeNumber/palindrome_number.py) 
-* Review: 
-* Tip: 维护一个回归测试集，不仅在工程技术上有用，在数据科学应用中也是有效的。
-* Share: [复杂网络升阶指南：如何构建最优网络模型](http://www.sohu.com/a/308604871_741733) 作者提出了几种升阶方法，包括分层、组合、时序、因果。
-
-### 2019/04/29-2019/05/05
-
-* Algorithm: LeetCode-010 [Python](https://github.com/fs302/LeetCode/blob/master/010-RegularExpMatch/regular_exp_match.py) 记忆化搜索，用 DP 解应该也行
-* Review: [What's in a Name? An Unsupervised Approach to Link Users across Communities](https://dl.acm.org/citation.cfm?id=2433457)
-    + 这篇文章利用 n-gram 的 NLP 方法，通过分析用户名（username）独特性来自动抽取训练集，继而从用户头像、地理位置、签名、线上行为共现、语言偏好等角度抽取特征，以相同用户名为召回，对 user-user 关系对训练一个二分类模型。通过人为调研的方式提取了测试集合，相比直接把用户名相同视为同人（精确率 56.4%），模型精确率提升到 92.1%。综上，作者提出了 2 个 insight：一是自动抽取训练集的方式是有效的，二是训练 n-gram 模型得到的判别特征也是有效的。
-
-
-### 2019/05/06-2019/05/12
-
-* Algorithm: LeetCode-011 [Python](https://github.com/fs302/LeetCode/blob/master/011-WaterMaxArea/max_area.py) 要理清影响决策的关键因素
-
-### 2019/05/13-2019/05/19
-
-* Algorithm: LeetCode-012 [Python](https://github.com/fs302/LeetCode/blob/master/012-Int2Roman/int2roman.py)
-
-### 2019/05/20-2019/05/26
-
-* Algorithm: LeetCode-013 [Python](https://github.com/fs302/LeetCode/blob/master/013-Roman2Int/roman2int.py)
-* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 这篇文章尝试对 GNN 的底层机制做了解构，并且和 Weisfeiler-Lehman 方法进行类比，从而提出了一个更简单高效的 GNN 框架：Graph Isomorphism Network(GIN)，在图分类的任务上取得了很不错的效果。
-* Tip: 比发现问题更牛逼的是解决问题，比解决问题更牛逼的是优化问题的根源。站得越高，越不容易手无足措。
-
-### 2019/05/27-2019/06/02
-
-* Algorithm: LeetCode-014 [Python](https://github.com/fs302/LeetCode/blob/master/014-LongestCommonPrefix/lcp.py)
-
-### 2019/06/03-2019/06/09
-
-* Algorithm: LeetCode-950 [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py)
-
-### 2019/06/10-2019/06/16
-
-* Algorithm: LeetCode-015 [Python](https://github.com/fs302/LeetCode/blob/master/015-3Sum/linear_3sum.py)
-
-### 2019/06/17-2019/06/23
-
-* Algorithm: LeetCode-016 [Python](https://github.com/fs302/LeetCode/blob/master/016-3SumClosest/closest_3sum.py)
-
-### 2019/06/24-2019/06/30
-
-* Algorithm: LeetCode-017 [Python](https://github.com/fs302/LeetCode/blob/master/017-PhoneLetter/phone_letter.py)
-
-### 2019/07/28-2019/08/03
-
-* Algorithm: LeetCode-018 [Python](https://github.com/fs302/LeetCode/blob/master/018-4Sum/n_sum.py)
-* Review: [How Powerful Are Graph Neural Networks?](https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf) 精读了一遍，其重点在证明图信息聚合的时候，用 Sum 比 Mean 和 Max 好，后接 MLP 比 1-Layer 好，其中 Max-1-Layer 就是 GraphSage，Mean-1-Layer 就是 GCN。
-
-
-### 2019/08/04-2019/08/11
-
-* Algorithm: LeetCode-019 [Python](https://github.com/fs302/LeetCode/blob/master/019-RemoveNthEnd/remove_nth_node.py)
-* Tip: 业务需要，复习了网络密度和网络集聚系数，发现网络集聚系数在三角闭包不成环的时候区分力不够强。定义一个社团密度，想要具备更好的排序性，可以结合两者。
-
-### 2019/08/12-2019/08/18
-
-* Algorithm: LeetCode-020 [Python](https://github.com/fs302/LeetCode/blob/master/020-ValidParentheses/valid_parentheses.py)
-
-### 2019/08/19-2019/08/25
-
-* Algorithm: LeetCode-021 [Python](https://github.com/fs302/LeetCode/blob/master/021-MergeSortedLists/merge_sorted_lists.py)
-
-### 2019/08/26-2019/09/01
-
-* Algorithm: LeetCode-022 [Python](https://github.com/fs302/LeetCode/blob/master/022-GenerateParentheses/kuohao_dfs.py)
-* Tip: 可解释性 AI 正处于技术上升期，包括全局解释性（overall feature importance）和局部解释性（by-instance feature importance）。常用的思路是通过白盒模型（如线性模型）来拟合黑盒模型（如深度学习模型），从而对黑盒模型进行解释。与之很相似的一个机器学习领域叫“知识蒸馏”（Knowledge Distillation），在限制模型复杂度的条件下，用简单模型替代复杂模型，达到工业应用的目的。在解释训练的过程中，会通过特征缺失、样本扰动的方式去构造对比数据。目前 GA2M、LIME、SHAP 等解释性方法比较普遍在用。
-
-### 2019/09/02-2019/09/08
-
-* Algorithm: LeetCode-023 [Python](https://github.com/fs302/LeetCode/blob/master/023-MergeKSortedLists/merge_k_lists.py)
-* Tip: SIR 模型可以用来衡量网络节点传播重要性
-
-### 2019/09/09-2019/09/15
-
-* Algorithm: LeetCode-024 [Python](https://github.com/fs302/LeetCode/blob/master/024-SwapNodesInPairs/swap_pairs.py) 
-* Tips: 要保证效率，最好一开始写代码的时候就用对数据结构。
-
-### 2019/09/16-2019/09/22
-
-* Algorithm: LeetCode-025 [Python](https://github.com/fs302/LeetCode/blob/master/025-ReverseNodesInKGroup/reverse_k.py) 
-
-
-### 2019/09/23-2019/09/29
-
-* Algorithm: LeetCode-026 [Python](https://github.com/fs302/LeetCode/blob/master/026-RemoveDuplicate/remove_dup.py)
-
-### 2019/09/30-2019/10/06
-
-* Pass
-
-### 2019/10/07-2019/10/13
-
-* Algorithm: LeetCode-027 [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) 
-* Algorithm: LeetCode-028 [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py) 
-
+* Algorithm: Leetcode-007 [Python](https://github.com/fs302/LeetCode/blob/master/007-ReverseInt/reverse.py)
+* Review：
+* Tip：[《Python风格规范》](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/) 第一条：不要在行尾加分号, 也不要用分号将两条命令放在同一行.
+* Share：[《CIKM 最佳论文是怎样炼成的》](https://dl.ccf.org.cn/institude/institudeDetail?id=4238083940370432&_ack=1) 这篇文章讲述了结合视觉和文本做搜索排序优化的新思路，经历了 CVPR、IJCAI 的拒稿后，最终被 CIKM 接收并且拿到最佳论文奖的历程。得到的启发是：一个新思路在被大家认可的过程中，是不断和外接碰撞，完善表达力的过程。其中重要的一环还是作为提出者要足够相信。
