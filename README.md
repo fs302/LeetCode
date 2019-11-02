@@ -31,11 +31,17 @@
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/fs302/LeetCode/blob/master/027-RemoveElement/remove_element.py) | 模拟 | Easy |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](https://github.com/fs302/LeetCode/blob/master/028-strStr/kmp.py)  | 模拟 | Middle |
 | 29   | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/fs302/LeetCode/blob/master/029-DivideTwoIntegers/divide_simulator.py)  | 模拟 | Middle |
+| 30   | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/fs302/LeetCode/blob/master/030-SubstringConcat/substring_concat.py)  | 模拟 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2019/10/28-2019/11/02
+
+* Algorithm: LeetCode-030 [Python](https://github.com/fs302/LeetCode/blob/master/030-SubstringConcat/substring_concat.py)
+
 
 ### 2019/10/14-2019/10/20
 
