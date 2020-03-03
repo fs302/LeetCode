@@ -35,11 +35,18 @@
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/fs302/LeetCode/blob/master/031-NextPermutation/next_permutation.py)  | 模拟 | Hard |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/fs302/LeetCode/blob/master/032-LongestValidParentheses/longest_vp.py)  | 栈/DP | Middle |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/033-SearchRotated/search_rotated_sorted_array.py)  | 二分查找 | Middle |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/034-SearchRange/search_range.py)  | 二分查找 | Middle |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/fs302/LeetCode/blob/master/035-SearchInsertPosition/search_iposition.py)   | 二分查找 | Easy |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/03/02-2020/03/08
+
+* Algorithm: LeetCode-034 [Python](https://github.com/fs302/LeetCode/blob/master/034-SearchRange/search_range.py) 
+* Alrogithm: LeetCode-035 [Python](https://github.com/fs302/LeetCode/blob/master/035-SearchInsertPosition/search_iposition.py) 
 
 ### 2020/02/24-2020/03/01
 
