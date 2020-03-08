@@ -37,6 +37,7 @@
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/033-SearchRotated/search_rotated_sorted_array.py)  | 二分查找 | Middle |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/034-SearchRange/search_range.py)  | 二分查找 | Middle |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/fs302/LeetCode/blob/master/035-SearchInsertPosition/search_iposition.py)   | 二分查找 | Easy |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/fs302/LeetCode/blob/master/036-ValidSudoku/valid_sudoku.py)   | 模拟 | Easy |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -47,6 +48,8 @@
 
 * Algorithm: LeetCode-034 [Python](https://github.com/fs302/LeetCode/blob/master/034-SearchRange/search_range.py) 
 * Alrogithm: LeetCode-035 [Python](https://github.com/fs302/LeetCode/blob/master/035-SearchInsertPosition/search_iposition.py) 
+* Alrogithm: LeetCode-036 [Python](https://github.com/fs302/LeetCode/blob/master/036-ValidSudoku/valid_sudoku.py)
+* Review: 读了 D.J. Watts & Steven Strogatz 1998 年在 Nature 发表的网络科学奠基文章 <Collective dynamics of 'small-world' networks>，通过关注两个重要的指标——聚集系数和平均距离，来指出现实世界的网络结构，更多是介于规则网络和随机网络之间的小世界网络，即聚集性高、平均路径短的网络特性。最后以疾病传播模拟为例子，来强调网络平均距离跟传播速度的正相关性，来体现小世界网络的研究价值。这篇文章到 2020 年初，已经获得了超过 40000 个引用。
 
 ### 2020/02/24-2020/03/01
 
