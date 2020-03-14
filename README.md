@@ -38,11 +38,19 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/fs302/LeetCode/blob/master/034-SearchRange/search_range.py)  | 二分查找 | Middle |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/fs302/LeetCode/blob/master/035-SearchInsertPosition/search_iposition.py)   | 二分查找 | Easy |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/fs302/LeetCode/blob/master/036-ValidSudoku/valid_sudoku.py)   | 模拟 | Easy |
+| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](https://github.com/fs302/LeetCode/blob/master/037-SudokuSolver/sudoku_solver.py)  | 深搜 | Middle |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/fs302/LeetCode/blob/master/038-CountAndSay/count_and_say.py)  | 递推 | Easy |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/03/09-2020/03/15
+
+* Algorithm: LeetCode-037 [Python](https://github.com/fs302/LeetCode/blob/master/037-SudokuSolver/sudoku_solver.py) 
+* Algorithm: LeetCode-038 [Python](https://github.com/fs302/LeetCode/blob/master/038-CountAndSay/count_and_say.py)
+
 
 ### 2020/03/02-2020/03/08
 
@@ -54,7 +62,6 @@
 ### 2020/02/24-2020/03/01
 
 * Algorithm: LeetCode-033 [Python](https://github.com/fs302/LeetCode/blob/master/033-SearchRotated/search_rotated_sorted_array.py)
-
 
 ### 2020/02/03-2020/02/09
 
