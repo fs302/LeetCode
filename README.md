@@ -40,6 +40,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/fs302/LeetCode/blob/master/036-ValidSudoku/valid_sudoku.py)   | 模拟 | Easy |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](https://github.com/fs302/LeetCode/blob/master/037-SudokuSolver/sudoku_solver.py)  | 深搜 | Middle |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/fs302/LeetCode/blob/master/038-CountAndSay/count_and_say.py)  | 递推 | Easy |
+| 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/039-CombinationSum/combination_sum.py)  | 搜索 | Easy |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
@@ -50,6 +51,7 @@
 
 * Algorithm: LeetCode-037 [Python](https://github.com/fs302/LeetCode/blob/master/037-SudokuSolver/sudoku_solver.py) 
 * Algorithm: LeetCode-038 [Python](https://github.com/fs302/LeetCode/blob/master/038-CountAndSay/count_and_say.py)
+* Algorithm: LeetCode-039 [Python](https://github.com/fs302/LeetCode/blob/master/039-CombinationSum/combination_sum.py)
 
 
 ### 2020/03/02-2020/03/08
