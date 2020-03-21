@@ -43,16 +43,17 @@
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/039-CombinationSum/combination_sum.py)  | 搜索 | Easy |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/040-CombinationSum2/combination_sum2.py)  | 搜索 | Middle |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](https://github.com/fs302/LeetCode/blob/master/041-FirstMissingPos/first_miss_pos.py)  | 模拟 | Hard |
+| 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/fs302/LeetCode/blob/master/042-TrappingRainWater/trapping.py)  | 双向指针 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
-### 2020/03/16-2020/03/20
+### 2020/03/16-2020/03/22
 
 * Alrogithm: LeetCode-041 [Python](https://github.com/fs302/LeetCode/blob/master/041-FirstMissingPos/first_miss_pos.py)
-
+* Alrogithm: LeetCode-042 [Python](https://github.com/fs302/LeetCode/blob/master/042-TrappingRainWater/trapping.py) 
 
 ### 2020/03/09-2020/03/15
 
