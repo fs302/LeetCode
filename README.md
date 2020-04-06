@@ -46,15 +46,23 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/fs302/LeetCode/blob/master/042-TrappingRainWater/trapping.py)  | 双向指针 | Middle |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python3](https://github.com/fs302/LeetCode/blob/master/043-Multiply/multiply_py3.py)  | 模拟 | Middle |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python3](https://github.com/fs302/LeetCode/blob/master/044-WildcardMatching/wildcard.py)  |  DP | Hard |
-| 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy       |
+| 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/045-JumpGameII/jump_game.py)  |  DP | Middle |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutaltions.py)  | 搜索 | Easy |
+
+| 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2020/03/30-2020/04/05
+
+* Algorithm: LeetCode-045 [Python3](https://github.com/fs302/LeetCode/blob/master/045-JumpGameII/jump_game.py)
+* Algorithm: LeetCode-046 [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutaltions.py)
+
 ### 2020/03/23-2020/03/29
 
-* Alrogithm: LeetCode-043 [Python3](https://github.com/fs302/LeetCode/blob/master/043-Multiply/multiply_py3.py) 
+* Algorithm: LeetCode-043 [Python3](https://github.com/fs302/LeetCode/blob/master/043-Multiply/multiply_py3.py) 
 * Algorithm: LeetCode-044 [Python3](https://github.com/fs302/LeetCode/blob/master/044-WildcardMatching/wildcard.py)
     + Tips: 动态规划边界条件的设定尤为重要，好的边界设置能减少很多不必要的附加操作
 
@@ -69,7 +77,6 @@
 * Algorithm: LeetCode-038 [Python](https://github.com/fs302/LeetCode/blob/master/038-CountAndSay/count_and_say.py)
 * Algorithm: LeetCode-039 [Python](https://github.com/fs302/LeetCode/blob/master/039-CombinationSum/combination_sum.py)
 * Algorithm: LeetCode-040 [Python](https://github.com/fs302/LeetCode/blob/master/040-CombinationSum2/combination_sum2.py)
-
 
 ### 2020/03/02-2020/03/08
 
