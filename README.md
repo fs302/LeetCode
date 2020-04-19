@@ -47,7 +47,7 @@
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python3](https://github.com/fs302/LeetCode/blob/master/043-Multiply/multiply_py3.py)  | 模拟 | Middle |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python3](https://github.com/fs302/LeetCode/blob/master/044-WildcardMatching/wildcard.py)  |  DP | Hard |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/045-JumpGameII/jump_game.py)  |  DP | Middle |
-| 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutaltions.py)  | 搜索 | Easy |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutations.py)  | 搜索 | Easy |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/047-PermutationsII/permutation_unique.py)  | 搜索 | Middle |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py)  | 模拟 | Hard |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
