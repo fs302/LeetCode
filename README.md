@@ -48,17 +48,28 @@
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python3](https://github.com/fs302/LeetCode/blob/master/044-WildcardMatching/wildcard.py)  |  DP | Hard |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/045-JumpGameII/jump_game.py)  |  DP | Middle |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutaltions.py)  | 搜索 | Easy |
-
+| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/047-PermutationsII/permutation_unique.py)  | 搜索 | Middle |
+| 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py)  | 模拟 | Hard |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2020/04/13-2020/04/19
+
+* Algorithm: LeetCode-048 [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py) 
+
+
+### 2020/04/06-2020/04/12
+
+* Algorithm: LeetCode-047 [Python3](https://github.com/fs302/LeetCode/blob/master/047-PermutationsII/permutation_unique.py) 
+
 ### 2020/03/30-2020/04/05
 
 * Algorithm: LeetCode-045 [Python3](https://github.com/fs302/LeetCode/blob/master/045-JumpGameII/jump_game.py)
 * Algorithm: LeetCode-046 [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutaltions.py)
+* Review: 杰克韦尔奇在《赢》一书的第 16 章“合适的工作”中，建议从「人、机遇、未来、主导权、工作内容」五个方面寻找信号评估自己的工作适不适合当下的自己。
 
 ### 2020/03/23-2020/03/29
 
