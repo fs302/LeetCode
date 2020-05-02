@@ -52,11 +52,17 @@
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py)  | 模拟 | Hard |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/fs302/LeetCode/blob/master/049-GroupAnagrams/group_anagrams.py)  | 模拟 | Middle |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/fs302/LeetCode/blob/master/050-Pow/fast_pow.py)  | 递归 | Middle |
+| 51   | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/fs302/LeetCode/blob/master/051-NQueens/n_queens.py)  | 回溯 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/04/27-2020/05/03
+
+* Algorithm: LeetCode-051 [Python](https://github.com/fs302/LeetCode/blob/master/051-NQueens/n_queens.py)
+
 
 ### 2020/04/20-2020/04/26
 
