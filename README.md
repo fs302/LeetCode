@@ -50,16 +50,23 @@
 | 46   | [Permutations](https://leetcode.com/problems/permutations/) | [Python3](https://github.com/fs302/LeetCode/blob/master/046-Permutations/permutations.py)  | 搜索 | Easy |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/047-PermutationsII/permutation_unique.py)  | 搜索 | Middle |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py)  | 模拟 | Hard |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/fs302/LeetCode/blob/master/049-GroupAnagrams/group_anagrams.py)  | 模拟 | Middle |
+| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/fs302/LeetCode/blob/master/050-Pow/fast_pow.py)  | 递归 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2020/04/20-2020/04/26
+
+* Algorithm: LeetCode-049 [Python](https://github.com/fs302/LeetCode/blob/master/049-GroupAnagrams/group_anagrams.py)
+* Algorithm: LeetCode-050 [Python](https://github.com/fs302/LeetCode/blob/master/050-Pow/fast_pow.py)
+
+
 ### 2020/04/13-2020/04/19
 
 * Algorithm: LeetCode-048 [Python](https://github.com/fs302/LeetCode/blob/master/048-RotateImage/rotate_image.py) 
-
 
 ### 2020/04/06-2020/04/12
 
