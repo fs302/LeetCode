@@ -53,6 +53,7 @@
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/fs302/LeetCode/blob/master/049-GroupAnagrams/group_anagrams.py)  | 模拟 | Middle |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/fs302/LeetCode/blob/master/050-Pow/fast_pow.py)  | 递归 | Middle |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/fs302/LeetCode/blob/master/051-NQueens/n_queens.py)  | 回溯 | Middle |
+| 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/052-NQueensII/total_nqueens.py)  | 回溯 | Middle |
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/fs302/LeetCode/blob/master/950-RevealCards/inc_poker.py) | 模拟 | Easy |
 
 # ARTS
@@ -62,7 +63,8 @@
 ### 2020/04/27-2020/05/03
 
 * Algorithm: LeetCode-051 [Python](https://github.com/fs302/LeetCode/blob/master/051-NQueens/n_queens.py)
-
+* Algorithm: LeetCode-052 [Python](https://github.com/fs302/LeetCode/blob/master/052-NQueensII/total_nqueens.py)
+* Review: 读了赵姝、唐杰等人合作的《社交关系挖掘研究综述》（《计算机学报》2017.40），从关系链接预测、关系类型预测、关系交互预测三个方面进行问题形式化分析和算法调研。其中关系类型预测写得较为精彩，全面地涵盖了无监督学习、监督学习、主动学习和迁移学习，通过丰富语境下的多类型关系的关联一致性，取得更好的预测效果。这篇综述对我们日常工作中构建企业级社交网络体系有一定的启发作用。
 
 ### 2020/04/20-2020/04/26
 
