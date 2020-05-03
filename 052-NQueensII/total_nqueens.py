@@ -1,7 +1,7 @@
-import json
 class Solution(object):
     def __init__(self):
         self.solution = []
+        self.total = 0
         self.EXISTS = 1
         self.FREE = 0
         
@@ -23,21 +23,9 @@ class Solution(object):
         flag['rightx'][pos+depth] = value
         return None
         
-    def formulation(self, state, n):
-        result = []
-        for pos in state:
-            line = ''
-            for i in range(n):
-                if i == pos:
-                    line += 'Q'
-                else:
-                    line += '.'
-            result.append(line)
-        return result
-
     def dfs(self, depth, state, flag, n):
         if depth == n:
-            self.solution.append(self.formulation(state, n))
+            self.total += 1
             return None
         
         for pos in range(n):
@@ -50,24 +38,24 @@ class Solution(object):
                 state.pop()
         return None
         
-    def solveNQueens(self, n):
+    def totalNQueens(self, n):
         """
         :type n: int
-        :rtype: List[List[str]]
+        :rtype: int
         """
         state = []
         self.solution = []
         flag = {'row':{}, 'col':{}, 'leftx':{}, 'rightx': {}}
         self.dfs(0, state, flag, n)
-        print(len(self.solution))
-        return self.solution
-        
+        return self.total
 
 def stringToInt(input):
     return int(input)
 
-def string2dArrayToString(input):
-    return json.dumps(input)
+def intToString(input):
+    if input is None:
+        input = 0
+    return str(input)
 
 def main():
     import sys
@@ -80,9 +68,9 @@ def main():
             line = lines.next()
             n = stringToInt(line)
             
-            ret = Solution().solveNQueens(n)
+            ret = Solution().totalNQueens(n)
 
-            out = string2dArrayToString(ret)
+            out = intToString(ret)
             print out
         except StopIteration:
             break
