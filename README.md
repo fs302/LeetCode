@@ -57,11 +57,18 @@
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/fs302/LeetCode/blob/master/053-MaxSubarray/max_subarray.py)  | 动态规划 | Easy |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/fs302/LeetCode/blob/master/054-SpiralMatrix/spiral_matrix.py)  | 模拟 | Easy |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/fs302/LeetCode/blob/master/055-JumpGame/jump_game.py)  | 贪心 | Easy |
+| 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/fs302/LeetCode/blob/master/056-MergeIntervals/merge_intervals.py)  | 模拟 | Easy |
+| 57   | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/fs302/LeetCode/blob/master/057-InsertIntervals/insert_intervals.py)  | 查找 | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/05/18-2020/05/24
+
+* Algorithm: LeetCode-056 [Python](https://github.com/fs302/LeetCode/blob/master/056-MergeIntervals/merge_intervals.py)
+* Alrorithm: LeetCode-057 [Python](https://github.com/fs302/LeetCode/blob/master/057-InsertIntervals/insert_intervals.py)
 
 ### 2020/05/11-2020/05/17
 
