@@ -59,11 +59,23 @@
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/fs302/LeetCode/blob/master/055-JumpGame/jump_game.py)  | 贪心 | Easy |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/fs302/LeetCode/blob/master/056-MergeIntervals/merge_intervals.py)  | 模拟 | Easy |
 | 57   | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/fs302/LeetCode/blob/master/057-InsertIntervals/insert_intervals.py)  | 查找 | Middle |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/fs302/LeetCode/blob/master/058-LengthOfLastWord/len_last_word.py)  | 字符串 | Easy |
+| 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/059-SpiralMatrix2/spiral_matrix2.py)  | 模拟 | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/06/01-2020/06/07
+
+* Algorithm: LeetCode-058 [Python](https://github.com/fs302/LeetCode/blob/master/058-LengthOfLastWord/len_last_word.py)
+* Algorithm: LeetCode-059 [Python](https://github.com/fs302/LeetCode/blob/master/059-SpiralMatrix2/spiral_matrix2.py) 
+* Share: 阅读左耳朵耗子专栏《如何才能拥有技术领导力》，文末提到 Google 评分卡，是一个 0-10 分的技术深度衡量体系，其中 2 分以内是初级，3-5 分算精通，6-8 分可以成为领域驱动者，9-10 分是标准制定者。值得膜拜对齐！
+
+### 2020/05/25-2020/05/31
+
+pass
 
 ### 2020/05/18-2020/05/24
 
