@@ -61,11 +61,22 @@
 | 57   | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/fs302/LeetCode/blob/master/057-InsertIntervals/insert_intervals.py)  | 查找 | Middle |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/fs302/LeetCode/blob/master/058-LengthOfLastWord/len_last_word.py)  | 字符串 | Easy |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/059-SpiralMatrix2/spiral_matrix2.py)  | 模拟 | Middle |
+| 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/fs302/LeetCode/blob/master/060-PerputationSeq/perpulation_seq.py)  | 递归 | Middle |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/fs302/LeetCode/061-RotateList/rotate_list.py)  | 链表 | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/06/15-2020/06/21
+
+* Algorithm: LeetCode-060 [Python](https://github.com/fs302/LeetCode/blob/master/060-PerputationSeq/perpulation_seq.py) 
+* Algorithm: LeetCode-061 [Python](https://github.com/fs302/LeetCode/blob/master/061-RotateList/rotate_list.py)
+
+### 2020/06/08-2020/06/14
+
+pass
 
 ### 2020/06/01-2020/06/07
 
