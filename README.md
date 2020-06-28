@@ -62,9 +62,9 @@
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/fs302/LeetCode/blob/master/058-LengthOfLastWord/len_last_word.py)  | 字符串 | Easy |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/059-SpiralMatrix2/spiral_matrix2.py)  | 模拟 | Middle |
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/fs302/LeetCode/blob/master/060-PerputationSeq/perpulation_seq.py)  | 递归 | Middle |
-| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/fs302/LeetCode/061-RotateList/rotate_list.py)  | 链表 | Middle |
-| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/fs302/LeetCode/062-UniquePaths/unique_paths.py)  | DP | Middle |
-| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/fs302/LeetCode/063-UnquePathsII/unique_path2.py)  | DP | Middle |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/061-RotateList/rotate_list.py)  | 链表 | Middle |
+| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/fs302/LeetCode/blob/master/062-UniquePaths/unique_paths.py)  | DP | Middle |
+| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/063-UnquePathsII/unique_path2.py)  | DP | Middle |
 
 # ARTS
 
@@ -72,8 +72,8 @@
 
 ### 2020/06/15-2020/06/21
 
-* Algorithm: LeetCode-062 [Python](https://github.com/fs302/LeetCode/062-UniquePaths/unique_paths.py)
-* Algorithm: LeetCode-063 [Python](https://github.com/fs302/LeetCode/063-UnquePathsII/unique_path2.py)
+* Algorithm: LeetCode-062 [Python](https://github.com/fs302/LeetCode/blob/master/062-UniquePaths/unique_paths.py)
+* Algorithm: LeetCode-063 [Python](https://github.com/fs302/LeetCode/blob/master/063-UnquePathsII/unique_path2.py)
 
 ### 2020/06/15-2020/06/21
 
