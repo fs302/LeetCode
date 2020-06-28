@@ -63,11 +63,17 @@
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/059-SpiralMatrix2/spiral_matrix2.py)  | 模拟 | Middle |
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/fs302/LeetCode/blob/master/060-PerputationSeq/perpulation_seq.py)  | 递归 | Middle |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/fs302/LeetCode/061-RotateList/rotate_list.py)  | 链表 | Middle |
-
+| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/fs302/LeetCode/062-UniquePaths/unique_paths.py)  | DP | Middle |
+| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/fs302/LeetCode/063-UnquePathsII/unique_path2.py)  | DP | Middle |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/06/15-2020/06/21
+
+* Algorithm: LeetCode-062 [Python](https://github.com/fs302/LeetCode/062-UniquePaths/unique_paths.py)
+* Algorithm: LeetCode-063 [Python](https://github.com/fs302/LeetCode/063-UnquePathsII/unique_path2.py)
 
 ### 2020/06/15-2020/06/21
 
