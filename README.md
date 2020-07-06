@@ -65,10 +65,16 @@
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/061-RotateList/rotate_list.py)  | 链表 | Middle |
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/fs302/LeetCode/blob/master/062-UniquePaths/unique_paths.py)  | DP | Middle |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/063-UnquePathsII/unique_path2.py)  | DP | Middle |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/064-miniPathSum/path_sum.py)  | DP | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+
+### 2020/06/29-2020/07/05
+
+* Algorithm: LeetCode-064 [Python](https://github.com/fs302/LeetCode/blob/master/064-miniPathSum/path_sum.py)
 
 ### 2020/06/22-2020/06/28
 
