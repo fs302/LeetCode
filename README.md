@@ -66,11 +66,25 @@
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/fs302/LeetCode/blob/master/062-UniquePaths/unique_paths.py)  | DP | Middle |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/063-UnquePathsII/unique_path2.py)  | DP | Middle |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/064-miniPathSum/path_sum.py)  | DP | Easy |
+| 65   | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/065-ValidNumber/valid_number.py)  | 正则 | Middle |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/fs302/LeetCode/blob/master/066-PlusOne/plus_one.py)  | 字符串 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2020/08/03-2020/08/09
+
+* Algorithm: LeetCode-066 [Python](https://github.com/fs302/LeetCode/blob/master/066-PlusOne/plus_one.py) 
+* Tips：本周参加了 PM 训练营预备考试，学习了两个概念比较有意思。一是燃尽图，用来跟踪剩余工作量随时间演变情况，跟 OKR 跟踪曲线类似；二是 RACI 表，用于明确组织中各个角色的权利与职责，其中 R 表示 Responsible（负责），A 表示 Accountable（批准），C 表示 Consulted（咨询），I 表示Informed（知会）。
+
+### 2020/07/27-2020/08/02
+
+* Algorithm: LeetCode-065 [Python](https://github.com/fs302/LeetCode/blob/master/065-ValidNumber/valid_number.py)
+
+### 2020/07/06-2020/07/26
+
+pass
 
 ### 2020/06/29-2020/07/05
 
