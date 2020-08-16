@@ -68,10 +68,16 @@
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/fs302/LeetCode/blob/master/064-miniPathSum/path_sum.py)  | DP | Easy |
 | 65   | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/065-ValidNumber/valid_number.py)  | 正则 | Middle |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/fs302/LeetCode/blob/master/066-PlusOne/plus_one.py)  | 字符串 | Easy |
+| 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/fs302/LeetCode/blob/master/067-AddBinary/add_binary.py)  | 字符串 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/08/10-2020/08/16
+
+* Algorithm: LeetCode-067 [Python](https://github.com/fs302/LeetCode/blob/master/067-AddBinary/add_binary.py)
+* Share: 断断续续听完了雷军的小米 10 周年演讲，分享两个脑子记下来的印象——1）雷军最看重的小米成就有 3 点，一是推动了中国移动互联网的普及，二是孵化小米生态链带动了 100 多个行业的变革，三是为全球创造的工作岗位改变了一些人的命运。这 3 点的社会意义很明显，也足够宏大。2）初创时期的小米，靠七字口诀赢得了用户，现在看来依然值得体会，这七字口诀是「专注、极致、口碑、快」。
 
 ### 2020/08/03-2020/08/09
 
