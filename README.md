@@ -69,10 +69,20 @@
 | 65   | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/fs302/LeetCode/blob/master/065-ValidNumber/valid_number.py)  | 正则 | Middle |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/fs302/LeetCode/blob/master/066-PlusOne/plus_one.py)  | 字符串 | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/fs302/LeetCode/blob/master/067-AddBinary/add_binary.py)  | 字符串 | Easy |
+| 68   | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python](https://github.com/fs302/LeetCode/blob/master/068-TextJustification/test_just.py)  | 贪心 | Middle |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/fs302/LeetCode/blob/master/069-SqrtX/sqrtx.py)  | 贪心 | Easy |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/070-ClimbStairs/climb_stairs.py)  | DP | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/08/17-2020/08/23
+
+* Algorithm: LeetCode-068 [Python](https://github.com/fs302/LeetCode/blob/master/068-TextJustification/test_just.py)
+* Algorithm: LeetCode-069 [Python](https://github.com/fs302/LeetCode/blob/master/069-SqrtX/sqrtx.py)
+* Algorithm: LeetCode-070 [Python](https://github.com/fs302/LeetCode/blob/master/070-ClimbStairs/climb_stairs.py)
+
 
 ### 2020/08/10-2020/08/16
 
