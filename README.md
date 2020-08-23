@@ -72,6 +72,8 @@
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python](https://github.com/fs302/LeetCode/blob/master/068-TextJustification/test_just.py)  | 贪心 | Middle |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/fs302/LeetCode/blob/master/069-SqrtX/sqrtx.py)  | 贪心 | Easy |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/070-ClimbStairs/climb_stairs.py)  | DP | Easy |
+| 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](https://github.com/fs302/LeetCode/blob/master/071-SimplifyPath/simplify_path.py)  | 栈 | Easy |
+| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/fs302/LeetCode/blob/master/072-EditDistance/edit_distance.py)  | DP | Hard |
 
 # ARTS
 
@@ -82,7 +84,9 @@
 * Algorithm: LeetCode-068 [Python](https://github.com/fs302/LeetCode/blob/master/068-TextJustification/test_just.py)
 * Algorithm: LeetCode-069 [Python](https://github.com/fs302/LeetCode/blob/master/069-SqrtX/sqrtx.py)
 * Algorithm: LeetCode-070 [Python](https://github.com/fs302/LeetCode/blob/master/070-ClimbStairs/climb_stairs.py)
-
+* Algorithm: LeetCode-071 [Python](https://github.com/fs302/LeetCode/blob/master/071-SimplifyPath/simplify_path.py) 
+* Algorithm: LeetCode-072 [Python](https://github.com/fs302/LeetCode/blob/master/072-EditDistance/edit_distance.py) 「靠观察能解决的问题，就不用去操纵」
+* Share: 分享一个讲解 BERT 算法的[视频](https://www.youtube.com/watch?v=xI0HHN5XKDo)，把 BERT 的精华言简意赅地介绍清楚，Pre-training 阶段用于理解语言环境，是 BERT 的核心阶段，模型结构来源于 Transformer 的 Encoder 部分，搞清楚「What is language, what is context?」，其包含了 2 个代理任务：Mask Language Model(MLM) 和 Next Sentence Prediction(NSP)，通过 loss 函数的设计把它联系到一起共同优化。然后 Fine-tuning 环节只需要简单基于下游具体任务（比如问题回答、情感分析）进行调优，就可以得到很好的模型效果，回答「How to use language for specific task」。
 
 ### 2020/08/10-2020/08/16
 
