@@ -74,10 +74,17 @@
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/fs302/LeetCode/blob/master/070-ClimbStairs/climb_stairs.py)  | DP | Easy |
 | 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](https://github.com/fs302/LeetCode/blob/master/071-SimplifyPath/simplify_path.py)  | 栈 | Easy |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/fs302/LeetCode/blob/master/072-EditDistance/edit_distance.py)  | DP | Hard |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/fs302/LeetCode/blob/master/073-SetZeroes/set_zeroes.py)  | 模拟 | Easy |
+| 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/fs302/LeetCode/blob/master/074-Search2D/serach_2d_matrix.py)  | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/08/24-2020/08/30
+
+* Algorithm: LeetCode-073 [Python](https://github.com/fs302/LeetCode/blob/master/073-SetZeroes/set_zeroes.py)
+* Algorithm: LeetCode-074 [Python](https://github.com/fs302/LeetCode/blob/master/074-Search2D/serach_2d_matrix.py) 训练粗调和微调的思路
 
 ### 2020/08/17-2020/08/23
 
