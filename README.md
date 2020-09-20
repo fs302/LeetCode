@@ -76,10 +76,20 @@
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/fs302/LeetCode/blob/master/072-EditDistance/edit_distance.py)  | DP | Hard |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/fs302/LeetCode/blob/master/073-SetZeroes/set_zeroes.py)  | 模拟 | Easy |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/fs302/LeetCode/blob/master/074-Search2D/serach_2d_matrix.py)  | 模拟 | Easy |
+| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/fs302/LeetCode/blob/master/075-sortColors/sort_colors.py)  | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/09/14-2020/09/20
+
+* Alrogithm: LeetCode-075
+
+
+### 2020/09/07-2020/09/13
+
+* Review: Moira 和 Lada 等人在 2013 年发表的一篇探索性文章 "Families on facebook"，通过 facebook 亲子交互数据，以小孩年龄、小孩性别、双方物理距离、父母角色为区分观察的视角，分析了共同好友数、联系频率和沟通内容的区别。发现了几个有意思的现象： 1）接近 40% 的英语用户在 facebook 上能找到其亲子关系，年轻的用户（小于 40 岁）父母关系居多，年长的用户（大于 40 岁）子女关系居多。其中「母亲-女儿」的关系占比最大，「母亲-儿子」次之。2）从双方居住距离来看，随着年龄的增长，儿子相比女儿会离父母到更远的地方居住，18-20岁是一个跳跃点（开始分居两地），但整体线上交互频率和居住距离远近没有强相关性。3）为了判别亲子关系，仅用 N-gram + LR 模型，可以拿到 60% 的模型准确率，虽然不是特别高，但足以区分其他关系了。通过 N-gram 词组的重要性（odds），可以发现不同关系类型的特点，有一定解释性。
 
 ### 2020/08/24-2020/08/30
 
