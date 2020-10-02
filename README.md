@@ -77,10 +77,19 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/fs302/LeetCode/blob/master/073-SetZeroes/set_zeroes.py)  | 模拟 | Easy |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/fs302/LeetCode/blob/master/074-Search2D/serach_2d_matrix.py)  | 模拟 | Easy |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/fs302/LeetCode/blob/master/075-sortColors/sort_colors.py)  | 模拟 | Easy |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/076-MinimunWindow/minimun_window_substring.py)  | 模拟 | Hard |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/09/28-2020/10/04
+
+* Alrogithm: LeetCode-076
+
+### 2020/09/21-2020/09/27
+
+* Review: FDU 张诚教授的2019发表在Decision Support Systems的一篇文章:"Family profile mining in retailing"，试用了一种 PU Learning 迭代寻优的框架，通过确定性特征筛选正样本，再通过相对弱一点的特征来做 PU Learning，对我们搞基础标签有一定的参考意义。原来想看这篇文章是以为会去建模家庭结构，结果看下来更多还是人的标签挖掘，转换成一个分类任务了。Anyway，文章对家庭营销的介绍还是有一定的启发价值。
 
 ### 2020/09/14-2020/09/20
 
