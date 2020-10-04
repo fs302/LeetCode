@@ -77,7 +77,8 @@
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/fs302/LeetCode/blob/master/073-SetZeroes/set_zeroes.py)  | 模拟 | Easy |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/fs302/LeetCode/blob/master/074-Search2D/serach_2d_matrix.py)  | 模拟 | Easy |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/fs302/LeetCode/blob/master/075-sortColors/sort_colors.py)  | 模拟 | Easy |
-| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/076-MinimunWindow/minimun_window_substring.py)  | 模拟 | Hard |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/076-MinimunWindow/minimun_window_substring.py)  | 链表结构 | Hard |
+| 77   | [Combinations](https://leetcode.com/problems/combinations/) | [Python](https://github.com/fs302/LeetCode/blob/master/077-Combinations/combinations.py)  | 记忆化搜索/DP | Middle |
 
 # ARTS
 
@@ -85,7 +86,8 @@
 
 ### 2020/09/28-2020/10/04
 
-* Alrogithm: LeetCode-076
+* Alrogithm: LeetCode-076 这题难的不是 slide window，而是存储结构和频繁计算的优化
+* Alrogithm: LeetCode-077 很棒的进阶题，从 DFS 到记忆化搜索再到 DP，逐步优化时间和空间。
 
 ### 2020/09/21-2020/09/27
 
