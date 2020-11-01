@@ -79,15 +79,27 @@
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/fs302/LeetCode/blob/master/075-sortColors/sort_colors.py)  | 模拟 | Easy |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/fs302/LeetCode/blob/master/076-MinimunWindow/minimun_window_substring.py)  | 链表结构 | Hard |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/) | [Python](https://github.com/fs302/LeetCode/blob/master/077-Combinations/combinations.py)  | 记忆化搜索/DP | Middle |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/fs302/LeetCode/blob/master/078-Subsets/subsets.py)  | DFS | Easy |
+| 79   | [WordSearch](https://leetcode.com/problems/word-search/) | [Python](https://github.com/fs302/LeetCode/blob/master/079-WordSearch/word_search.py)  | DFS | Middle |
+| 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/080-RemoveDupII/remove_duplicates_2.py)  | 模拟 | Middle |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2020/10/26-2020/11/01
+
+* Algorithm: LeetCode-079
+* Algorithm: LeetCode-080 充分利用好“指针”概念和互不影响的空间
+
+### 2020/10/19-2020/10/25
+
+* Algorithm: LeetCode-078 
+
 ### 2020/09/28-2020/10/04
 
-* Alrogithm: LeetCode-076 这题难的不是 slide window，而是存储结构和频繁计算的优化
-* Alrogithm: LeetCode-077 很棒的进阶题，从 DFS 到记忆化搜索再到 DP，逐步优化时间和空间。
+* Algorithm: LeetCode-076 这题难的不是 slide window，而是存储结构和频繁计算的优化
+* Algorithm: LeetCode-077 很棒的进阶题，从 DFS 到记忆化搜索再到 DP，逐步优化时间和空间。
 
 ### 2020/09/21-2020/09/27
 
