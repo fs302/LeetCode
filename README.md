@@ -82,10 +82,19 @@
 | 78   | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/fs302/LeetCode/blob/master/078-Subsets/subsets.py)  | DFS | Easy |
 | 79   | [WordSearch](https://leetcode.com/problems/word-search/) | [Python](https://github.com/fs302/LeetCode/blob/master/079-WordSearch/word_search.py)  | DFS | Middle |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/080-RemoveDupII/remove_duplicates_2.py)  | 模拟 | Middle |
+| 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/081-SearchInRotatedII/search_in_rotated_arr.py)  | 二分法 | Hard |
+| 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/082-RemoveDupLinkII/remove_dup_linkedlist.py)  | 链表 | Middle |
+| 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/083-RemoveDup/remove_dup_i.py)  | 链表 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2020/11/23-2020/11/29
+
+* Algorithm: LeetCode-081
+* Algorithm: LeetCode-082
+* Algorithm: LeetCode-083
 
 ### 2020/10/26-2020/11/01
 
