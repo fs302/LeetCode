@@ -85,10 +85,23 @@
 | 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/081-SearchInRotatedII/search_in_rotated_arr.py)  | 二分法 | Hard |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/fs302/LeetCode/blob/master/082-RemoveDupLinkII/remove_dup_linkedlist.py)  | 链表 | Middle |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/083-RemoveDup/remove_dup_i.py)  | 链表 | Easy |
+| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/fs302/LeetCode/blob/master/084-LargestRectangle/largest_rec.py)  | 栈 | Hard |
+| 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python](https://github.com/fs302/LeetCode/blob/master/085-MaxRectangle/max_rect.py)  | 栈 | Hard |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2021/01/17-2020/01/24
+* Algorithm: LeetCode-085 是前一题（084）的变种
+* Share: 分享 Google Graph Mining 团队在 NeurIPS2020 关于 Graph Mining 的 [Tutorial](https://gm-neurips-2020.github.io/)，这个团队在 Google 成立至今已有 11 年，研究方向从原来的大规模图挖掘到现在的图机器学习。由于 Google 的工业场景遇到的都是 Billion 级的超大规模图，所以他们的研究侧重也在如何实际解决大规模图计算/图模型的问题，其中大量用到了 LSH 等近似计算的技术。特别推荐 Bryan Perozzi 主讲的《GNNs and Graph Embeddings》一节，深入浅出地说明了 GCN 的实际意义和阿喀琉斯之踵。
+### 2020/12/21-2020/12/27
+
+* Algorithm: LeetCode-084 单调栈的实践例题，理解起来还挺绕的。
+
+### 2020/11/30-2020/12/06
+
+* Share: 分享一篇今年 2 月发表关于 GNN 发展趋势的评论文章["Top Trends of Graph Machine Learning in 2020"](https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3)，这篇博文以 ICLR2020 发表的文章为锚点，提出了今年往后 Graph Machine Learning 发展的 4 个特点：1）对 GNN 模型更可靠的理论理解，2）更好玩的 GNN 应用，3）知识图谱将再受瞩目，4）对图表征框架在效率和可靠性上的深入探索。
 
 ### 2020/11/23-2020/11/29
 
