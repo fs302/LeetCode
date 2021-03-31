@@ -87,12 +87,19 @@
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/083-RemoveDup/remove_dup_i.py)  | 链表 | Easy |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/fs302/LeetCode/blob/master/084-LargestRectangle/largest_rec.py)  | 栈 | Hard |
 | 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python](https://github.com/fs302/LeetCode/blob/master/085-MaxRectangle/max_rect.py)  | 栈 | Hard |
-
+| 86   | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/086-PartitionList/partition_list.py)  | 链表 | Middle |
+| 87   | [Scramble String](https://leetcode-cn.com/problems/scramble-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/087-ScrambleString/scrimble_string.py)  | 记忆化搜索 | Hard |
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
-### 2021/01/17-2020/01/24
+### 2021/03/29-2021/04/04
+
+* Algorithm: LeetCode-087 [Python3](https://github.com/fs302/LeetCode/blob/master/087-ScrambleString/scrimble_string.py)
+### 2021/03/01-2021/03/07
+
+* Algorithm: LeetCode-086
+### 2021/01/17-2021/01/24
 * Algorithm: LeetCode-085 是前一题（084）的变种
 * Share: 分享 Google Graph Mining 团队在 NeurIPS2020 关于 Graph Mining 的 [Tutorial](https://gm-neurips-2020.github.io/)，这个团队在 Google 成立至今已有 11 年，研究方向从原来的大规模图挖掘到现在的图机器学习。由于 Google 的工业场景遇到的都是 Billion 级的超大规模图，所以他们的研究侧重也在如何实际解决大规模图计算/图模型的问题，其中大量用到了 LSH 等近似计算的技术。特别推荐 Bryan Perozzi 主讲的《GNNs and Graph Embeddings》一节，深入浅出地说明了 GCN 的实际意义和阿喀琉斯之踵。
 ### 2020/12/21-2020/12/27
