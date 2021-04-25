@@ -89,9 +89,17 @@
 | 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python](https://github.com/fs302/LeetCode/blob/master/085-MaxRectangle/max_rect.py)  | 栈 | Hard |
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/086-PartitionList/partition_list.py)  | 链表 | Middle |
 | 87   | [Scramble String](https://leetcode-cn.com/problems/scramble-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/087-ScrambleString/scrimble_string.py)  | 记忆化搜索 | Hard |
+| 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](https://github.com/fs302/LeetCode/blob/master/088-MergeSortedArray/merge_sorted.py)  | 排序 | Easy |
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2021/04/19-2021/04/25
+
+* Algorithm: LeetCode-088 [Python3](https://github.com/fs302/LeetCode/blob/master/088-MergeSortedArray/merge_sorted.py) 
+* Review: `<Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation>` 这篇文章是发表在 WWW2021 的工作，整体来说是一个实验应用型的研究，虽然没有提出特别的技术突破，但通过组合当下研究热点（Hypergraph+GNN+Self-Supervised-Learning），可读性还不错。其中最大的亮点应该是将超图用于建模社交关系和交叉关系（社交+购买），有效提取特征并且减少社交关系的噪声。最后通过注意力机制融合来自社交、交叉、购买三个通道的信息，发现社交的信息量确实是最小的（当然我认为这个发现和具体数据集有关，公开数据集中的社交关系往往是相对公开的弱关系）。
+* Tip: 可以通过 ssh 的远程端口转发功能实现本地访问远程的 jupyter-notebook，租用云 GPU 时可能会需要。`ssh -L <local port>:<remote host>:<remote port> <SSH hostname>`
+* Share: [《从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史》](https://zhuanlan.zhihu.com/p/49271699)
 
 ### 2021/03/29-2021/04/04
 
