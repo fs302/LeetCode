@@ -90,9 +90,20 @@
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](https://github.com/fs302/LeetCode/blob/master/086-PartitionList/partition_list.py)  | 链表 | Middle |
 | 87   | [Scramble String](https://leetcode-cn.com/problems/scramble-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/087-ScrambleString/scrimble_string.py)  | 记忆化搜索 | Hard |
 | 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](https://github.com/fs302/LeetCode/blob/master/088-MergeSortedArray/merge_sorted.py)  | 排序 | Easy |
+| 89   | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](https://github.com/fs302/LeetCode/blob/master/089-GrayCode/gray_code.py)  | 模拟 | Easy |
+| 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/090-SubsetWithDup/subset_2.py)  | 搜索 | Easy |
+
+
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2021/05/03-2021/05/09
+* Algorithm: LeetCode-090 [Python3](https://github.com/fs302/LeetCode/blob/master/090-SubsetWithDup/subset_2.py) 
+* Review: `<A Review of the Research Progress of Social Network Structure>`作者介绍了 1960 年以来在社交网络理论和结构模型的进展，包括关系强度、社会资本、结构洞，从微观到宏观的结构分析，包括小世界网络、无标度网络和。整体作为综述还是值得看的。
+
+### 2021/04/26-2021/05/02
+* Algorithm: LeetCode-089 [Python3](https://github.com/fs302/LeetCode/blob/master/089-GrayCode/gray_code.py) 格雷码是为了控制系统中减少进位突变而设计的循环二进制，每次只会修改一个数位。
 
 ### 2021/04/19-2021/04/25
 
