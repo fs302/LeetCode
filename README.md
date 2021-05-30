@@ -92,11 +92,20 @@
 | 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python3](https://github.com/fs302/LeetCode/blob/master/088-MergeSortedArray/merge_sorted.py)  | 排序 | Easy |
 | 89   | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](https://github.com/fs302/LeetCode/blob/master/089-GrayCode/gray_code.py)  | 模拟 | Easy |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/090-SubsetWithDup/subset_2.py)  | 搜索 | Easy |
+| 91   | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](https://github.com/fs302/LeetCode/blob/master/091-DecodeWays/decode_ways.py) | 记忆化搜索/DP | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2021/05/24-2021/05/30
+
+* Algorithm: LeetCode-091 [Python3](https://github.com/fs302/LeetCode/blob/master/091-DecodeWays/decode_ways.py) 记忆化搜索的效率（尤其是空间）是不如递推，但我更喜欢它的直白。
+
+### 2021/05/17-2021/05/23
+
+* Review:[`<World Models>`](https://worldmodels.github.io/) 来自 Google Brain 的作者写的一份长文，介绍了其构建智能体（Agent）来学习世界的框架，包括 3 个关键模块：Vision Model(V) + Memory RNN(M) + Controller(C)。其中 V+M 构成了所谓的 World Model，作者在赛车和 VisDoom 两个环境中测试智能体的效果，发现缺乏了 M 的感知器 V，效果是要更差一些的。说明了记忆和认知在其中的重要性。在讨论环节作者也提出 World Model 后续发展方向是找到更有学习能力的 V 和 M，或者加入更强大的外部记忆模块。其中后者也是我比较感兴趣的部分。
 
 ### 2021/05/03-2021/05/09
 * Algorithm: LeetCode-090 [Python3](https://github.com/fs302/LeetCode/blob/master/090-SubsetWithDup/subset_2.py) 
