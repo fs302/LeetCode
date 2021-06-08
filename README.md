@@ -93,15 +93,25 @@
 | 89   | [Gray Code](https://leetcode-cn.com/problems/gray-code/) | [Python3](https://github.com/fs302/LeetCode/blob/master/089-GrayCode/gray_code.py)  | 模拟 | Easy |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/090-SubsetWithDup/subset_2.py)  | 搜索 | Easy |
 | 91   | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](https://github.com/fs302/LeetCode/blob/master/091-DecodeWays/decode_ways.py) | 记忆化搜索/DP | Middle |
+| 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/092-ReverseLink/reverse_linked_list.py) | 模拟 | Middle |
+| 93   | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](https://github.com/fs302/LeetCode/blob/master/093-RestoreIP/restore_ip.py) | 回溯 | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+
+### 2021/06/07-2021/06/13
+
+* Algorithm: LeetCode-093 [Python3](https://github.com/fs302/LeetCode/blob/master/093-RestoreIP/restore_ip.py) 
+### 2021/05/31-2021/06/06
+
+* Algorithm: LeetCode-092 [Python3](https://github.com/fs302/LeetCode/blob/master/092-ReverseLink/reverse_linked_list.py) 自己写的太丑了
 ### 2021/05/24-2021/05/30
 
 * Algorithm: LeetCode-091 [Python3](https://github.com/fs302/LeetCode/blob/master/091-DecodeWays/decode_ways.py) 记忆化搜索的效率（尤其是空间）是不如递推，但我更喜欢它的直白。
+* Review: [`<Cooperative AI: machines must learn to find common ground>`](https://www.nature.com/articles/d41586-021-01170-0) 当前阶段的 AI 更多在单体智能或双人零和博弈，而 AI-AI 合作、AI-Human 合作的进一步研究，有机会创造更高社会价值的产物。作者提出了合作智能的 4 个要素：1.理解接收的信息，2.发出信息&交流，3.做出承诺，4.通识。由于合作智能本身对交叉学科的诉求非常大，作者呼吁社会学、行为学、自然科学多领域交流，并建立了一个社区 www.cooperativeai.org。
 
 ### 2021/05/17-2021/05/23
 
