@@ -95,12 +95,22 @@
 | 91   | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Python3](https://github.com/fs302/LeetCode/blob/master/091-DecodeWays/decode_ways.py) | 记忆化搜索/DP | Middle |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/092-ReverseLink/reverse_linked_list.py) | 模拟 | Middle |
 | 93   | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](https://github.com/fs302/LeetCode/blob/master/093-RestoreIP/restore_ip.py) | 回溯 | Middle |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/094-BinaryTreeInorder/binary_tree_inorder.py) | 模拟 | Middle |
+| 95   | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/095-UniqueBSTII/unique_bst_2.py) | 分治 | Middle |
 
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2021/06/28-2021/07/04
+
+* Algorithm: LeetCode-095 [Python3](https://github.com/fs302/LeetCode/blob/master/095-UniqueBSTII/unique_bst_2.py) 
+* Review: Fei Gao, Katarzyna Musial, Colin Cooper, Sophia Tsoka, ["Link Prediction Methods and Their Accuracy for Different Social Networks and Network Metrics"](https://www.hindawi.com/journals/sp/2015/172879/) 这篇文章研究了不同的启发式链路预测方法在不同网络特性（聚集系数、平均距离等）下的表现，试图找出什么样的网络是对预测友好的，什么样的网络是对预测方法不友好的。通过相关性分析，作者发现诸如「Cosine 相似度在聚集系数高的网络中表现更好」、「Katz 在直径大的网络中表现不理想」的观察，这个研究问题是一个很基础的灵魂拷问，如果能把它系统化研究透，对于网络链路预测就可以说是一个专家了。我从去年开始思考这个问题，希望可以用一两年的时间，把这样的经验沉淀成一个 Git 库，方便自己和有需求的朋友快速入坑上手。
+
+### 2021/06/21-2021/06/27
+
+* Algorithm: LeetCode-094 [Python3](https://github.com/fs302/LeetCode/blob/master/094-BinaryTreeInorder/binary_tree_inorder.py)
 
 ### 2021/06/07-2021/06/13
 
