@@ -97,12 +97,20 @@
 | 93   | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Python3](https://github.com/fs302/LeetCode/blob/master/093-RestoreIP/restore_ip.py) | 回溯 | Middle |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/094-BinaryTreeInorder/binary_tree_inorder.py) | 模拟 | Middle |
 | 95   | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/095-UniqueBSTII/unique_bst_2.py) | 分治 | Middle |
-
+| 96   | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](https://github.com/fs302/LeetCode/blob/master/096-NumBinaryTree/unique_num_bst.py) | DP | Easy |
+| 97   | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/097-InterleaveStr/interleaving.py) | DP | Middle |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2021/07/26-2021/08/01
+
+* Algorithm: LeetCode-097 [Python3](https://github.com/fs302/LeetCode/blob/master/097-InterleaveStr/interleaving.py)
+
+### 2021/07/19-2021/07/25
+
+* Algorithm: LeetCode-096 [Python3](https://github.com/fs302/LeetCode/blob/master/096-NumBinaryTree/unique_num_bst.py) 
 ### 2021/06/28-2021/07/04
 
 * Algorithm: LeetCode-095 [Python3](https://github.com/fs302/LeetCode/blob/master/095-UniqueBSTII/unique_bst_2.py) 
