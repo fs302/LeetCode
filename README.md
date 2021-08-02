@@ -99,10 +99,15 @@
 | 95   | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Python3](https://github.com/fs302/LeetCode/blob/master/095-UniqueBSTII/unique_bst_2.py) | 分治 | Middle |
 | 96   | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](https://github.com/fs302/LeetCode/blob/master/096-NumBinaryTree/unique_num_bst.py) | DP | Easy |
 | 97   | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/097-InterleaveStr/interleaving.py) | DP | Middle |
+| 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) | 分治 | Middle |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2021/08/02-2021/08/08
+
+* Algorithm: LeetCode-098 [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) 
 
 ### 2021/07/26-2021/08/01
 
