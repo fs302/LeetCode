@@ -100,6 +100,8 @@
 | 96   | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Python3](https://github.com/fs302/LeetCode/blob/master/096-NumBinaryTree/unique_num_bst.py) | DP | Easy |
 | 97   | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | [Python3](https://github.com/fs302/LeetCode/blob/master/097-InterleaveStr/interleaving.py) | DP | Middle |
 | 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) | 分治 | Middle |
+| 99   | [Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/099-RecoverBST/recover_bst.py) | 模拟 | Middle |
+| 100   | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/100-SameTree/same_tree.py) | 递归 | Easy |
 
 # ARTS
 
@@ -107,7 +109,10 @@
 
 ### 2021/08/02-2021/08/08
 
-* Algorithm: LeetCode-098 [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) 
+* Algorithm: 
+  - LeetCode-098 [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) 
+  - LeetCode-099 [Python3](https://github.com/fs302/LeetCode/blob/master/099-RecoverBST/recover_bst.py)
+  - LeetCode-100 [Python3](https://github.com/fs302/LeetCode/blob/master/100-SameTree/same_tree.py)
 
 ### 2021/07/26-2021/08/01
 
