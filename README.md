@@ -102,11 +102,21 @@
 | 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/098-ValidateBST/validate_bst.py) | 分治 | Middle |
 | 99   | [Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/099-RecoverBST/recover_bst.py) | 模拟 | Middle |
 | 100   | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/100-SameTree/same_tree.py) | 递归 | Easy |
+| 101   | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) | 递归 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+
+### 2021/09/13-2021/09/19
+
+* Tip: Github 上提供了一套持续集成(Continuous Integration) 的 workflow，集成 flake8 和 pytest，前者是代码语法与格式检查工具，后者是单元测试工具，可以很方便地帮助代码提交后进行集成测试。Youtube 有个印度小哥的视频讲解非常清晰，分享一下：[video](https://www.youtube.com/watch?v=WTofttoD2xg)
+* Algorithm: 
+
+### 2021/09/13-2021/09/19
+
+* Algorithm: LeetCode-101 [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) 
 ### 2021/08/02-2021/08/08
 
 * Algorithm: 
