@@ -117,7 +117,7 @@
 
 ### 2021/09/27-2021/10/03
 
-* Algorithm: LeetCode-102 [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) 好久没写 BFS，第一时间用了 DFS，虽然也能过，但代码逻辑会比较古怪。
+* Algorithm: LeetCode-102 [Python3](https://github.com/fs302/LeetCode/blob/master/102-BinaryTreeLevel/binary_tree_level.py) 好久没写 BFS，第一时间用了 DFS，虽然也能过，但代码逻辑会比较古怪。
 * Tip: 最近用到一个不错的 Python 下网络可视化工具 pyvis[https://pyvis.readthedocs.io/en/latest/]，相比 networkx 自带的可视化效果好很多，而且支持生成 HTML 交互式分析，跟 Jupyter notebook 结合得也好。
 
 ### 2021/09/20-2021/09/26
