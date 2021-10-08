@@ -104,14 +104,21 @@
 | 100   | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/100-SameTree/same_tree.py) | 递归 | Easy |
 | 101   | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) | 递归 | Easy |
 | 102   | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/102-BinaryTreeLevel/binary_tree_level.py) | BFS | Easy |
+| 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) | BFS | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2021/10/04-2021/10/10
+
+* Algorithm: LeetCode-103 [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) 第一次 WA 在第 14 个用例，还是要秉承简单法则。
+
+
 ### 2021/09/27-2021/10/03
 
 * Algorithm: LeetCode-102 [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) 好久没写 BFS，第一时间用了 DFS，虽然也能过，但代码逻辑会比较古怪。
+* Tip: 最近用到一个不错的 Python 下网络可视化工具 pyvis[https://pyvis.readthedocs.io/en/latest/]，相比 networkx 自带的可视化效果好很多，而且支持生成 HTML 交互式分析，跟 Jupyter notebook 结合得也好。
 
 ### 2021/09/20-2021/09/26
 
