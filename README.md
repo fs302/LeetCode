@@ -105,15 +105,24 @@
 | 101   | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Python3](https://github.com/fs302/LeetCode/blob/master/101-SymmetricTree/symmetirc_tree.py) | 递归 | Easy |
 | 102   | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/102-BinaryTreeLevel/binary_tree_level.py) | BFS | Easy |
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) | BFS | Easy |
+| 104   | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go) | 递归 | Easy |
+| 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go) | 递归 | Middle |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2021/11/22-2021/11/28
+
+* Algorithm: LeetCode-105 [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go)
+* Review: <[Progresses and challenges in link prediction](https://doi.org/10.1016/j.isci.2021.103217)> 这篇综述文章给出了链路预测简单精确的定义，并且介绍了局部相似性指标、链路可预测性、网络嵌入、矩阵补全、集成学习方法等信息。周涛发现局部相似性指标中，3-hop based 方法在 AUC 上要优于 2-hop based 方法，但是在准确性上优势并不明显。作为一个偏统计物理的综述，引用了近 10 年链路预测领域的重要文献，非常有参考价值。
+### 2021/11/08-2021/11/14
+
+* Algorithm: LeetCode-104 [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go)
+* Tip: 开始实践 Go 语言，Go 的官方网站提供了一个递进的[实践教程](https://go.dev/tour)，作为入门还不错。Go 有 C++ 一样的执行效率，在代码编写上又借鉴了 Python 的优美，虽然有一些强迫症（如：定义的变量必须被使用），但用久了应该会习惯。
 ### 2021/10/04-2021/10/10
 
 * Algorithm: LeetCode-103 [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) 第一次 WA 在第 14 个用例，还是要秉承简单法则。
-
 
 ### 2021/09/27-2021/10/03
 
