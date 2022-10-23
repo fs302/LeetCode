@@ -107,10 +107,17 @@
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) | BFS | Easy |
 | 104   | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go) | 递归 | Easy |
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go) | 递归 | Middle |
+| 202   | [Happy Number](https://leetcode.cn/problems/happy-number/) | [Python3](https://github.com/fs302/LeetCode/blob/master/202-HappyNumber/happy_number.py) | 递归 | Easy |
+| 1706   | [Where Will the Ball Fall](https://leetcode.cn/problems/where-will-the-ball-fall/) | [Python3](https://github.com/fs302/LeetCode/blob/master/1706-BallFall/ball_fall.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2022/10/17-2022/10/23
+
+* Algorithm: LeetCode-202 [Happy Number](https://leetcode.cn/problems/happy-number/)
+* Algorithm: LeetCode-1706 [Where Will the Ball Fall](https://leetcode.cn/problems/where-will-the-ball-fall/)
 
 ### 2021/11/22-2021/11/28
 
