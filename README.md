@@ -108,13 +108,22 @@
 | 104   | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go) | 递归 | Easy |
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go) | 递归 | Middle |
 | 202   | [Happy Number](https://leetcode.cn/problems/happy-number/) | [Python3](https://github.com/fs302/LeetCode/blob/master/202-HappyNumber/happy_number.py) | 递归 | Easy |
+| 234   | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/234-PalindromeLinkedList/palindrome.py) | 链表 | Easy |
+| 328   | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/328-OddEvenLinkedList/oe_link.py) | 链表 | Middle |
 | 1706   | [Where Will the Ball Fall](https://leetcode.cn/problems/where-will-the-ball-fall/) | [Python3](https://github.com/fs302/LeetCode/blob/master/1706-BallFall/ball_fall.py) | 模拟 | Easy |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
-### 2022/10/17-2022/10/23
+### 2022/10/24-2022/10/30
+ 
+* Algorithm: LeetCode-234  [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) [Code](https://github.com/fs302/LeetCode/blob/master/234-PalindromeLinkedList/palindrome.py)
+* Algorithm: LeetCode-328 [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) [Code](https://github.com/fs302/LeetCode/blob/master/328-OddEvenLinkedList/oe_link.py)
+* Share: [WSDM2022 Tutorial-Graph Neural Networks for Recommender System](http://staff.ustc.edu.cn/~hexn/slides/wsdm22_tutorial_gnn_rec.pdf) 教程首先提出 GNN 解决推荐系统的优势和必要性，然后按 Stages、Scenarios、Objectives 三个维度介绍了 GNN 推荐系统的相关概念和进展。其中 Scenarios 和 Objectives 的内容比较有启发性。
+
+
+### 2022/10/17-2022/10/23 
 
 * Algorithm: LeetCode-202 [Happy Number](https://leetcode.cn/problems/happy-number/)
 * Algorithm: LeetCode-1706 [Where Will the Ball Fall](https://leetcode.cn/problems/where-will-the-ball-fall/)
