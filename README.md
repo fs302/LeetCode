@@ -111,10 +111,16 @@
 | 234   | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/234-PalindromeLinkedList/palindrome.py) | 链表 | Easy |
 | 328   | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/328-OddEvenLinkedList/oe_link.py) | 链表 | Middle |
 | 1706   | [Where Will the Ball Fall](https://leetcode.cn/problems/where-will-the-ball-fall/) | [Python3](https://github.com/fs302/LeetCode/blob/master/1706-BallFall/ball_fall.py) | 模拟 | Easy |
+| 6255   | [Minimum Score of a Path Between Two Cities](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/) | [Python3](https://github.com/fs302/LeetCode/blob/master/6255-MinScoreBetweenCities/min_score_cities.py) | 集合 | Hard |
 
 # ARTS
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
+
+### 2022/11/28-2022/12/04
+
+* Algorithm: LeetCode-6255 [Minimum Score of a Path Between Two Cities](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/) [Code](https://github.com/fs302/LeetCode/blob/master/6255-MinScoreBetweenCities/min_score_cities.py) 复习一下并查集，然鹅在该题并不比 DFS 快
+* Share: [QRec](https://github.com/Coder-Yu/QRec) 把近几年基于 GNN、自监督、社交推荐相关的 SOTA 模型进行了整合实现，框架非常友好，可用性很高。
 
 ### 2022/10/24-2022/10/30
  
