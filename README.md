@@ -107,6 +107,8 @@
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](https://github.com/fs302/LeetCode/blob/master/103-BinaryZigzag/binary_zigzag_traversal.py) | BFS | Easy |
 | 104   | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go) | 递归 | Easy |
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go) | 递归 | Middle |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | [Python3](https://github.com/fs302/LeetCode/blob/master/114-FlattenTree/faltten.py) | 递归 | Easy |
+| 124 | [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [Python3](https://github.com/fs302/LeetCode/blob/master/124-MaxPathSum/max_path_sum.py) | 递归 | Hard |
 | 202   | [Happy Number](https://leetcode.cn/problems/happy-number/) | [Python3](https://github.com/fs302/LeetCode/blob/master/202-HappyNumber/happy_number.py) | 递归 | Easy |
 | 234   | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/234-PalindromeLinkedList/palindrome.py) | 链表 | Easy |
 | 328   | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/328-OddEvenLinkedList/oe_link.py) | 链表 | Middle |
@@ -117,9 +119,18 @@
 
 每周至少做一个leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称 ARTS）
 
+### 2022/12/19-2022/12/25
+
+* Algorithm: LeetCode-124 [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 第一次 Fail 在了最后 2 个 Case，看了题解恍然大悟——明修栈道暗度陈仓。
+
+### 2022/12/12-2022/12/18
+
+* Algorithm: LeetCode-114 [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list)  [[Code]](https://github.com/fs302/LeetCode/blob/master/114-FlattenTree/faltten.py)
+
+
 ### 2022/11/28-2022/12/04
 
-* Algorithm: LeetCode-6255 [Minimum Score of a Path Between Two Cities](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/) [Code](https://github.com/fs302/LeetCode/blob/master/6255-MinScoreBetweenCities/min_score_cities.py) 复习一下并查集，然鹅在该题并不比 DFS 快
+* Algorithm: LeetCode-6255 [Minimum Score of a Path Between Two Cities](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities/) [[Code]](https://github.com/fs302/LeetCode/blob/master/6255-MinScoreBetweenCities/min_score_cities.py) 复习一下并查集，然鹅在该题并不比 DFS 快
 * Share: [QRec](https://github.com/Coder-Yu/QRec) 把近几年基于 GNN、自监督、社交推荐相关的 SOTA 模型进行了整合实现，框架非常友好，可用性很高。
 
 ### 2022/10/24-2022/10/30
