@@ -108,7 +108,7 @@
 | 104   | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Go](https://github.com/fs302/LeetCode/blob/master/104-MaxDepthTree/max_depth_binary_tree.go) | 递归 | Easy |
 | 105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](https://github.com/fs302/LeetCode/blob/master/105-ConstructBinaryTree/construct_tree.go) | 递归 | Middle |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | [Python3](https://github.com/fs302/LeetCode/blob/master/114-FlattenTree/faltten.py) | 递归 | Easy |
-| 124 | [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [Python3](https://github.com/fs302/LeetCode/blob/master/124-MaxPathSum/max_path_sum.py) | 递归 | Hard |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [Python3](https://github.com/fs302/LeetCode/blob/master/124-MaxPathSum/max_path_sum.py) | 递归 | Hard |
 | 202   | [Happy Number](https://leetcode.cn/problems/happy-number/) | [Python3](https://github.com/fs302/LeetCode/blob/master/202-HappyNumber/happy_number.py) | 递归 | Easy |
 | 234   | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/234-PalindromeLinkedList/palindrome.py) | 链表 | Easy |
 | 328   | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/) | [Python3](https://github.com/fs302/LeetCode/blob/master/328-OddEvenLinkedList/oe_link.py) | 链表 | Middle |
@@ -121,7 +121,7 @@
 
 ### 2022/12/19-2022/12/25
 
-* Algorithm: LeetCode-124 [Flatten Binary Tree to Linked List](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 第一次 Fail 在了最后 2 个 Case，看了题解恍然大悟——明修栈道暗度陈仓。
+* Algorithm: LeetCode-124 [Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 第一次 Fail 在了最后 2 个 Case，看了题解恍然大悟——明修栈道暗度陈仓。
 
 ### 2022/12/12-2022/12/18
 
